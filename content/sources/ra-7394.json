@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-7394",
+  "title": "RA 7394 — Consumer Act of the Philippines",
+  "section": "Sections 52–59 (consumer product quality/safety), 68–77 (deceptive practices), 100–115 (price tag)",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+  "sourceName": "official_gazette",
+  "modules": ["consumer"],
+  "notes": "Right to refund/replacement; price tag law (displaying prices mandatory); deceptive/unfair sales acts; product safety; DTI enforcement.",
+  "fetchedAt": "2026-05-30T01:26:54.091Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

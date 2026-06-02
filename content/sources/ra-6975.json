@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-6975",
+  "title": "RA 6975 — Department of Interior and Local Government Act (PNP Act)",
+  "section": "Sections 41–43",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1990/12/13/republic-act-no-6975/",
+  "sourceName": "official_gazette",
+  "modules": ["police"],
+  "notes": "PNP operational procedures; limits of police authority; accountability.",
+  "fetchedAt": "2026-05-30T01:26:41.357Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

@@ -1,0 +1,14 @@
+{
+  "lawId": "const-1987-art3",
+  "title": "1987 Constitution, Article III — Bill of Rights",
+  "section": "Article III",
+  "sourceUrl": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+  "sourceName": "official_gazette",
+  "modules": ["police", "labor", "barangay", "consumer"],
+  "notes": "Sections 1–22. Covers right to remain silent (§12), right against unreasonable search/seizure (§2), due process (§1), equal protection (§1), free speech (§4).",
+  "fetchedAt": "2026-05-30T01:26:35.929Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "labor-sexual-harassment-work",
+  "module": "labor",
+  "situationTags": [
+    { "fil": "Hina-harass ako sa trabaho", "en": "I am being sexually harassed at work" },
+    {
+      "fil": "Ang aking boss ay gumagawa ng hindi naaangkop na kilos sa akin",
+      "en": "My boss is making inappropriate advances toward me"
+    },
+    {
+      "fil": "May gumagawa ng bastos na komento sa akin sa trabaho",
+      "en": "Someone is making lewd comments at me in the workplace"
+    }
+  ],
+  "keywords": [
+    "sexual harassment",
+    "harassment",
+    "RA 7877",
+    "RA 11313",
+    "Safe Spaces Act",
+    "Bawal Bastos",
+    "workplace",
+    "trabaho",
+    "boss",
+    "supervisor",
+    "colleague",
+    "gender-based",
+    "DOLE",
+    "EEOC equivalent"
+  ],
+  "right": {
+    "fil": "Ang sexual harassment sa trabaho ay ilegal. May karapatan kang magtrabaho nang malaya sa lahat ng anyo ng sekswal na panliligalig — mula sa boss, katrabaho, o sinuman sa lugar ng trabaho.",
+    "en": "Sexual harassment in the workplace is illegal. You have the right to work free from all forms of sexual harassment — from a boss, colleague, or anyone in the workplace."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7877 (Anti-Sexual Harassment Act) at RA 11313 (Safe Spaces Act), ang sexual harassment ay nangyayari kapag ang isang tao na may awtoridad o kapangyarihan ay humiling ng sekswal na pabor bilang kondisyon ng trabaho o nagdudulot ng mapang-abuso, mapagbantang, o nakaka-insulto na kapaligiran sa trabaho. Ang Safe Spaces Act ay pinalawak ito upang masaklaw din ang mga katrabaho — hindi lamang mga may kapangyarihan.",
+    "en": "Under RA 7877 (Anti-Sexual Harassment Act) and RA 11313 (Safe Spaces Act), sexual harassment occurs when a person with authority demands sexual favors as a condition of work, or creates an abusive, threatening, or offensive work environment. The Safe Spaces Act expanded this to cover co-workers — not just supervisors."
+  },
+  "theyCannot": [
+    {
+      "fil": "Humiling ng sekswal na pabor bilang kondisyon para sa promosyon, regular na trabaho, o iba pang benepisyo.",
+      "en": "Demand sexual favors as a condition for promotion, regularization, or other benefits."
+    },
+    {
+      "fil": "Gumawa ng hindi gustong sekswal na kilos, komento, o gesture sa lugar ng trabaho.",
+      "en": "Make unwanted sexual advances, comments, or gestures in the workplace."
+    },
+    {
+      "fil": "Gumawa ng kapaligiran sa trabaho na nakakainsulto, nakakatakot, o mapang-abuso dahil sa kasarian.",
+      "en": "Create a work environment that is offensive, intimidating, or abusive based on gender."
+    },
+    {
+      "fil": "Gumanti laban sa iyo dahil nag-report ka ng harassment.",
+      "en": "Retaliate against you for reporting harassment."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Mag-file ng reklamo sa Committee on Decorum and Investigation (CODI) ng iyong employer.",
+      "en": "File a complaint with your employer's Committee on Decorum and Investigation (CODI)."
+    },
+    {
+      "fil": "Mag-file ng kaso sa DOLE o NLRC laban sa employer na hindi kumikilos sa iyong reklamo.",
+      "en": "File a case with DOLE or NLRC against an employer who fails to act on your complaint."
+    },
+    {
+      "fil": "Mag-file ng kriminal na kaso sa korte o NBI laban sa harasser.",
+      "en": "File a criminal case in court or with the NBI against the harasser."
+    },
+    {
+      "fil": "I-document ang lahat ng pangyayari — petsa, oras, lugar, saksi, at kung ano ang nangyari.",
+      "en": "Document all incidents — date, time, location, witnesses, and what happened."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung may gumagawa ng hindi magandang bagay sa iyo sa trabaho dahil sa kasarian mo o gusto kang gawin na kasalukuyan, ito ay harassment. Ito ay ilegal. May karapatan kang magreklamo.",
+    "en": "If someone at work is doing inappropriate things to you based on your gender or is trying to take advantage of you sexually, that's harassment. It's illegal. You have the right to report it."
+  },
+  "scopeNotes": {
+    "fil": "Ang employer ay may obligasyong magtatag ng CODI at mag-act sa mga reklamo sa loob ng itinakdang panahon. Ang mga employer na hindi kumikilos ay maaari ring managot. Ang RA 11313 ay sumasaklaw sa lahat ng kasarian at sekswal na oryentasyon.",
+    "en": "Employers are obligated to establish a CODI and act on complaints within a prescribed period. Employers who fail to act may also be held liable. RA 11313 covers all genders and sexual orientations."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7877 — Anti-Sexual Harassment Act, Section 3",
+        "en": "RA 7877 — Anti-Sexual Harassment Act, Section 3"
+      },
+      "lawId": "ra-7877",
+      "section": "Section 3",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1995/02/14/republic-act-no-7877/",
+      "sourceName": "official_gazette",
+      "quotedText": "Work, Education or Training-related Sexual Harassment Defined. — Work, education or training-related sexual harassment is committed by an employer, employee, manager, supervisor, agent of the employer, teacher, instructor, professor, coach, trainor, or any other person who, having authority, influence or moral ascendancy over another in a work or training or education environment, demands, requests or otherwise requires any sexual favor from the other, regardless of whether the demand, request or requirement for submission is accepted by the object of said Act."
+    },
+    {
+      "label": {
+        "fil": "RA 11313 — Safe Spaces Act (Bawal Bastos Law)",
+        "en": "RA 11313 — Safe Spaces Act (Bawal Bastos Law)"
+      },
+      "lawId": "ra-11313",
+      "section": "Sections 3–11",
+      "sourceUrl": "https://www.officialgazette.gov.ph/2019/04/17/republic-act-no-11313/",
+      "sourceName": "official_gazette",
+      "quotedText": "Gender-based sexual harassment in the workplace includes acts that use the authority, influence, or moral ascendancy of the person to harass, threaten, or intimidate any person in the workplace."
+    }
+  ],
+  "relatedCardIds": ["labor-illegal-dismissal"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

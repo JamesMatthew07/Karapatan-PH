@@ -1,0 +1,96 @@
+{
+  "id": "lto-kotong",
+  "module": "lto",
+  "situationTags": [
+    {
+      "fil": "Humihingi ng pera ang traffic enforcer sa akin",
+      "en": "A traffic enforcer is asking me for money"
+    },
+    {
+      "fil": "Inaalok ako ng 'areglo' ng enforcer",
+      "en": "An enforcer is offering me a deal for money"
+    }
+  ],
+  "keywords": [
+    "kotong",
+    "bribe",
+    "suhulan",
+    "lagay",
+    "areglo",
+    "extortion",
+    "corruption",
+    "traffic enforcer",
+    "LTO",
+    "MMDA",
+    "RA 3019",
+    "Anti-Graft",
+    "bayad"
+  ],
+  "right": {
+    "fil": "Ang paghingi o pagtanggap ng suhol ng isang traffic enforcer ay isang krimen. Hindi ka obligadong magbayad ng anumang halaga sa opisyal — lahat ng multa ay binabayaran sa opisyal na mga sentro ng pagbabayad.",
+    "en": "A traffic enforcer demanding or accepting a bribe is committing a crime. You are not obligated to pay any amount to an officer — all fines are paid at official payment centers."
+  },
+  "whatThisMeans": {
+    "fil": "Ang 'kotong' o paghingi ng suhol ng isang traffic enforcer ay paglabag sa RA 3019 (Anti-Graft and Corrupt Practices Act) at maaaring maging kasong extortion. Ang lahat ng traffic fines ay dapat bayaran sa LTO, MMDA, o authorized payment centers — hindi sa enforcer mismo. Ang pagbabayad ng kotong ay nagpapatibay ng katiwalian at nagbibigay-daan sa karagdagang pang-aabuso.",
+    "en": "A traffic enforcer demanding a bribe ('kotong') violates RA 3019 (Anti-Graft and Corrupt Practices Act) and may constitute extortion. All traffic fines must be paid at LTO, MMDA, or authorized payment centers — not to the enforcer directly. Paying a bribe reinforces corruption and enables further abuse."
+  },
+  "theyCannot": [
+    {
+      "fil": "Humiling ng anumang halaga ng pera bilang 'areglo' para sa traffic violation.",
+      "en": "Request any amount of money as a 'deal' for a traffic violation."
+    },
+    {
+      "fil": "Tanggihan ang pagbibigay ng TVR para lang mapilitan kang mag-areglo.",
+      "en": "Refuse to issue a TVR in order to pressure you into a bribe."
+    },
+    {
+      "fil": "Banta-hin kang mas malaking problema kung hindi ka magbabayad.",
+      "en": "Threaten you with bigger problems if you refuse to pay."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Tanggihan nang magalang: 'Hindi po ako magbabayad dito. Bigyan ninyo ako ng TVR.'",
+      "en": "Politely refuse: 'I will not pay here. Please issue me a TVR.'"
+    },
+    {
+      "fil": "I-record ang interaksyon (kung ligtas) — ang video ay malakas na ebidensya.",
+      "en": "Record the interaction (if safe to do so) — video is powerful evidence."
+    },
+    {
+      "fil": "Mag-report sa LTO hotline, MMDA complaint line, o DILG-PNCL.",
+      "en": "Report to the LTO hotline, MMDA complaint line, or DILG-PNCL."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa Ombudsman laban sa opisyal.",
+      "en": "File a complaint with the Ombudsman against the officer."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung humingi ng pera ang enforcer para 'ma-areglo' ang violation mo, ito ay kotong — ilegal ito. Huwag magbayad. Humingi ng ticket (TVR) at mag-report ng nangyari.",
+    "en": "If an enforcer asks for money to 'fix' your violation, that's a bribe — it's illegal. Don't pay. Ask for a ticket (TVR) and report what happened."
+  },
+  "scopeNotes": {
+    "fil": "Ang pagre-report ng kotong ay maaaring gawing mas ligtas sa pamamagitan ng anonymous na reklamo sa DILG o sa media. Ang MMDA ay may 24/7 complaint hotline. Ang LTO ay may Internal Affairs Service para sa mga reklamo laban sa mga empleyado nito.",
+    "en": "Reporting kotong can be done more safely through an anonymous complaint to DILG or media. MMDA has a 24/7 complaint hotline. LTO has an Internal Affairs Service for complaints against its employees."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 3019 — Anti-Graft and Corrupt Practices Act, Section 3(b)",
+        "en": "RA 3019 — Anti-Graft and Corrupt Practices Act, Section 3(b)"
+      },
+      "lawId": "ra-3019",
+      "section": "Section 3(b)",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1960/08/17/republic-act-no-3019/",
+      "sourceName": "official_gazette",
+      "quotedText": "Directly or indirectly requesting or receiving any gift, present, share, percentage, or benefit, for himself or for any other person, in connection with any contract or transaction between the Government and any other part, wherein the public officer in his official capacity has to intervene under the law..."
+    }
+  ],
+  "relatedCardIds": ["lto-license-vs-orcr", "lto-valid-apprehension", "lto-contest-ticket"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

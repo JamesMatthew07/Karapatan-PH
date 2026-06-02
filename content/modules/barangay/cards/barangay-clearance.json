@@ -1,0 +1,90 @@
+{
+  "id": "barangay-clearance",
+  "module": "barangay",
+  "situationTags": [
+    {
+      "fil": "Hinihingi ang barangay clearance ko para sa trabaho o negosyo",
+      "en": "I'm being asked for a barangay clearance for work or business"
+    },
+    {
+      "fil": "Tinanggihan ang aking barangay clearance nang walang malinaw na dahilan",
+      "en": "My barangay clearance was denied without a clear reason"
+    }
+  ],
+  "keywords": [
+    "barangay clearance",
+    "clearance",
+    "certificate",
+    "residence",
+    "negosyo",
+    "business",
+    "trabaho",
+    "tanggihan",
+    "denied",
+    "RA 7160",
+    "requirements"
+  ],
+  "right": {
+    "fil": "Ang barangay clearance ay isang sertipiko ng mabuting asal at paninirahan. Mayroon kang karapatang makuha ito kung nakatugon ka sa mga kinakailangan — at hindi ito maaaring tanggihan nang walang malinaw at legal na dahilan.",
+    "en": "A barangay clearance is a certificate of good standing and residency. You have the right to obtain one if you meet the requirements — and it cannot be denied without a clear, legal reason."
+  },
+  "whatThisMeans": {
+    "fil": "Ang barangay clearance ay karaniwan nang hinihingi para sa trabaho, negosyo permit, driver's license renewal, at iba pa. Ito ay isang dokumento na nagpapatunay na ikaw ay isang residente ng barangay at walang nalalaming kasalanan. Ang barangay ay may karapatang tanggihan ito kung mayroon kang nalalaming kaso o reklamo — ngunit kailangan nilang ipaliwanag ang dahilan nang malinaw.",
+    "en": "Barangay clearance is commonly required for employment, business permits, driver's license renewal, and more. It certifies that you are a barangay resident with no known offenses. The barangay may deny it if you have a pending case or complaint — but they must clearly explain the reason."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggihan ang iyong barangay clearance nang walang ibinigay na malinaw na dahilan.",
+      "en": "Deny your barangay clearance without providing a clear reason."
+    },
+    {
+      "fil": "Humingi ng bayad na lampas sa opisyal na bayarin na itinakda ng barangay ordinance.",
+      "en": "Charge fees beyond what is set in the official barangay ordinance."
+    },
+    {
+      "fil": "Gawing kondisyon ang iyong pakikilahok sa barangay politics para sa pag-approve ng clearance.",
+      "en": "Make clearance approval conditional on your participation in barangay politics."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humiling ng nakasulat na paliwanag kung bakit tinanggihan ang iyong clearance.",
+      "en": "Request a written explanation if your clearance was denied."
+    },
+    {
+      "fil": "I-appeal ang pagtanggi sa opisina ng mayor o sa DILG.",
+      "en": "Appeal the denial to the mayor's office or to DILG."
+    },
+    {
+      "fil": "Itanong kung magkano ang opisyal na bayarin at humingi ng resibo.",
+      "en": "Ask for the official fee amount and always request a receipt."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang barangay clearance ay isang papel na nagpapatunay na ikaw ay mabuting mamamayan ng iyong barangay. Maaaring kailangan mo ito para sa trabaho o negosyo. Kung tinanggihan, may karapatan kang malaman kung bakit.",
+    "en": "A barangay clearance is a paper proving you're a good standing member of your barangay. You may need it for work or business. If denied, you have the right to know why."
+  },
+  "scopeNotes": {
+    "fil": "Ang barangay clearance ay OPTIONAL para sa maraming layunin — ang ilang employer o ahensiya ay maaaring humiling nito, ngunit hindi ito palaging mandatoryo sa batas. I-verify kung talagang kailangan mo ito para sa iyong partikular na layunin.",
+    "en": "Barangay clearance is OPTIONAL for many purposes — some employers or agencies may request it, but it is not always mandated by law. Verify whether you actually need it for your specific purpose."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7160 — Local Government Code, Section 389(b)(3)",
+        "en": "RA 7160 — Local Government Code, Section 389(b)(3)"
+      },
+      "lawId": "ra-7160-barangay",
+      "section": "Section 389(b)(3)",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+      "sourceName": "official_gazette",
+      "quotedText": "The punong barangay shall: Issue certifications, clearances, and other documents; Grant clearances and certifications as may be required by law or ordinance."
+    }
+  ],
+  "relatedCardIds": ["barangay-official-powers", "barangay-katarungang-pambarangay"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

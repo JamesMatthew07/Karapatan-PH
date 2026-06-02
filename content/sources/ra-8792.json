@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-8792",
+  "title": "RA 8792 — Electronic Commerce Act",
+  "section": "Sections 30–34",
+  "sourceUrl": "https://www.officialgazette.gov.ph/2000/06/14/republic-act-no-8792/",
+  "sourceName": "official_gazette",
+  "modules": ["consumer"],
+  "notes": "Online seller obligations; electronic transactions; consumer protection in e-commerce.",
+  "fetchedAt": "2026-05-30T01:26:56.721Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-7160-barangay",
+  "title": "RA 7160 — Local Government Code (Barangay provisions)",
+  "section": "Book III, Title I — The Barangay",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+  "sourceName": "official_gazette",
+  "modules": ["barangay"],
+  "notes": "Powers of barangay officials (punong barangay, kagawad); Katarungang Pambarangay (Secs.399–422); Lupon Tagapamayapa; barangay ordinance powers and limits.",
+  "fetchedAt": "2026-05-30T01:26:52.848Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

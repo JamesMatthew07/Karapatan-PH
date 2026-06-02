@@ -1,0 +1,93 @@
+{
+  "id": "barangay-katarungang-pambarangay",
+  "module": "barangay",
+  "situationTags": [
+    {
+      "fil": "May reklamo ako sa aking kapitbahay at sinabihan akong pumunta sa barangay",
+      "en": "I have a complaint against a neighbor and was told to go to the barangay"
+    },
+    {
+      "fil": "Gusto ko malaman kung kailangan ba talagang dumaan sa barangay ang kaso ko",
+      "en": "I want to know if my case really needs to go through the barangay first"
+    }
+  ],
+  "keywords": [
+    "Katarungang Pambarangay",
+    "Lupon",
+    "Lupon Tagapamayapa",
+    "mediation",
+    "conciliation",
+    "barangay",
+    "reklamo",
+    "dispute",
+    "RA 7160",
+    "compromise"
+  ],
+  "right": {
+    "fil": "Ang Katarungang Pambarangay ay isang libreng sistema ng pagkakasundo na pinamumunuan ng Lupon Tagapamayapa. Sa maraming kaso, kailangan mong dumaan dito bago makapag-file ng kaso sa korte.",
+    "en": "The Katarungang Pambarangay is a free dispute resolution system led by the Lupon Tagapamayapa. In many cases, you must go through this process before filing a case in court."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7160 (Sections 399–422), ang Lupon Tagapamayapa ay isang grupo ng mga miyembro ng komunidad na tumutulong sa pagkakasundo ng mga hindi pagkakaunawaan sa barangay. Ang proseso ay libre, informal, at kumpidensyal. Ang mga kaso na may kinalaman sa mga residente ng parehong barangay (o magkaratig na barangay) ay karaniwang kailangang dumaan sa Lupon bago pumunta sa korte.",
+    "en": "Under RA 7160 (Sections 399–422), the Lupon Tagapamayapa is a group of community members who help resolve disputes in the barangay. The process is free, informal, and confidential. Cases involving residents of the same barangay (or adjoining barangays) generally must go through the Lupon before going to court."
+  },
+  "theyCannot": [
+    {
+      "fil": "Pilitin kang pumirma ng kasunduan na hindi mo gusto.",
+      "en": "Force you to sign an agreement you do not want."
+    },
+    {
+      "fil": "Magdesisyon ng mga kaso na lampas sa kanilang hurisdiksyon (hal. mabibigat na krimen, mga kaso ng gobyerno).",
+      "en": "Decide cases beyond their jurisdiction (e.g., serious crimes, government cases)."
+    },
+    {
+      "fil": "Singilin ka ng anumang bayad para sa Lupon proceedings.",
+      "en": "Charge you any fee for Lupon proceedings."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Mag-file ng reklamo sa Lupon ng iyong barangay — libre ito.",
+      "en": "File a complaint with your barangay's Lupon — it's free."
+    },
+    {
+      "fil": "Lumahok sa mediation at makipag-ayos nang maayos.",
+      "en": "Participate in mediation and negotiate amicably."
+    },
+    {
+      "fil": "Humingi ng Certificate to File Action kung hindi nagtagumpay ang mediation — kailangan mo ito para makapag-file sa korte.",
+      "en": "Request a Certificate to File Action if mediation fails — you need this to file in court."
+    },
+    {
+      "fil": "Huwag dumaan sa Lupon kung ang kaso mo ay isa sa mga exempted — tulad ng mabibigat na krimen o VAWC cases.",
+      "en": "Skip the Lupon if your case is among the exempted — like serious crimes or VAWC cases."
+    }
+  ],
+  "eli5": {
+    "fil": "Bago ka pumunta sa korte para sa away sa kapitbahay, dapat muna kayong subukang mag-ayos sa barangay. Libre ito at mabilis. Kung hindi kayo nagkasundo, bibigyan ka ng papel para makapagtuloy ng kaso sa korte.",
+    "en": "Before going to court for a neighbor dispute, you must first try to settle it at the barangay. It's free and quick. If you don't settle, you'll get a paper to continue the case in court."
+  },
+  "scopeNotes": {
+    "fil": "Ang mga EXEMPTED sa Lupon: mga kaso laban sa gobyerno, mga VAWC cases (RA 9262), mga kaso kung saan isa sa mga partido ay wala sa lugar o nakatira sa ibang lugar, mabibigat na krimen (offenses punishable by more than 1 year imprisonment or fine > P5,000). Kumonsulta sa abogado para malaman kung ang iyong kaso ay exempted.",
+    "en": "Cases EXEMPT from the Lupon: cases against government, VAWC cases (RA 9262), cases where one party lives elsewhere, serious crimes (offenses punishable by more than 1 year imprisonment or fine > P5,000). Consult a lawyer to determine if your case is exempt."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7160 — Local Government Code, Sections 399–422 (Katarungang Pambarangay)",
+        "en": "RA 7160 — Local Government Code, Sections 399–422 (Katarungang Pambarangay)"
+      },
+      "lawId": "ra-7160-barangay",
+      "section": "Sections 399–422",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+      "sourceName": "official_gazette",
+      "quotedText": "The Lupon of each barangay shall have authority to bring together the parties actually residing in the same city or municipality for amicable settlement of all disputes except those enumerated in Section 408 of this Code."
+    }
+  ],
+  "relatedCardIds": ["barangay-official-powers", "barangay-clearance"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

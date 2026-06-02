@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-9745",
+  "title": "RA 9745 — Anti-Torture Act of 2009",
+  "section": "Sections 4–8",
+  "sourceUrl": "https://www.officialgazette.gov.ph/2009/11/10/republic-act-no-9745/",
+  "sourceName": "official_gazette",
+  "modules": ["police"],
+  "notes": "Defines torture; rights of persons during detention; prohibition on evidence obtained through torture.",
+  "fetchedAt": "2026-05-30T01:26:38.453Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

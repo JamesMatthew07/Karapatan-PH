@@ -1,0 +1,99 @@
+{
+  "id": "police-right-to-counsel",
+  "module": "police",
+  "situationTags": [
+    {
+      "fil": "Gusto ko ng abogado pero wala akong pera",
+      "en": "I want a lawyer but can't afford one"
+    },
+    {
+      "fil": "Tinanggihan ako ng abogado sa presinto",
+      "en": "Denied a lawyer at the police station"
+    }
+  ],
+  "keywords": [
+    "abogado",
+    "lawyer",
+    "counsel",
+    "PAO",
+    "Public Attorney",
+    "libre",
+    "free",
+    "RA 7438",
+    "custodial",
+    "investigation",
+    "karapatan",
+    "right to counsel"
+  ],
+  "right": {
+    "fil": "Kapag inaresto ka o tinatanong ng pulis, may karapatang ka sa isang abogado — kahit wala kang pera. Maaari kang humingi ng libre sa Public Attorney's Office (PAO).",
+    "en": "When arrested or questioned by police, you have the right to a lawyer — even if you have no money. You can request a free lawyer from the Public Attorney's Office (PAO)."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7438, bago ka tanungin ng pulis, dapat silang magbigay sa'yo ng abogado. Kung hindi mo kaya ang bayad, ang PAO ay nagbibigay ng libreng legal na tulong. Hindi maaaring umpisahan ang custodial investigation nang wala ang iyong abogado. Ang anumang salaysay o pagtatapat na ginawa mo nang walang abogado ay hindi maaaring gamitin laban sa'yo sa korte.",
+    "en": "Under RA 7438, before police question you, they must provide you with a lawyer. If you cannot afford one, the PAO provides free legal assistance. Custodial investigation cannot begin without your lawyer present. Any statement or confession made without a lawyer cannot be used against you in court."
+  },
+  "theyCannot": [
+    {
+      "fil": "Simulan ang pagtatanong nang wala ang iyong abogado.",
+      "en": "Begin questioning without your lawyer present."
+    },
+    {
+      "fil": "Gamitin ang sinabi mo (nang walang abogado) bilang ebidensya laban sa'yo.",
+      "en": "Use statements you made without a lawyer as evidence against you."
+    },
+    {
+      "fil": "Tanggihan ang iyong kahilingan para sa abogado.",
+      "en": "Deny your request for a lawyer."
+    },
+    {
+      "fil": "Sabihin na hindi ka entitled sa abogado dahil wala ka pang formal na charges.",
+      "en": "Tell you that you are not entitled to a lawyer because no formal charges have been filed yet."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Sabihing: 'Gusto kong magkaroon ng abogado bago ko sagutin ang anumang tanong.'",
+      "en": "Say: 'I want a lawyer before I answer any questions.'"
+    },
+    {
+      "fil": "Humingi ng PAO lawyer — libre at available sa lahat ng police stations.",
+      "en": "Request a PAO lawyer — free and available at all police stations."
+    },
+    {
+      "fil": "Tumanggi sa lahat ng pagtatanong hanggang dumating ang iyong abogado.",
+      "en": "Refuse all questioning until your lawyer arrives."
+    },
+    {
+      "fil": "I-waive ang karapatang ito kung gusto mo — ngunit dapat may abogado ka pa rin na naroroon habang ginagawa ang waiver.",
+      "en": "Waive this right if you choose — but a lawyer must still be present when you sign the waiver."
+    }
+  ],
+  "eli5": {
+    "fil": "Kahit wala kang pambayad sa abogado, may karapatan kang magkaroon ng isa bago ka sumagot sa pulis. Ang PAO ang nagbibigay nito nang libre. Huwag sumagot nang wala ang iyong abogado.",
+    "en": "Even if you can't pay for a lawyer, you have the right to one before answering police questions. The PAO provides this for free. Don't answer without your lawyer."
+  },
+  "scopeNotes": {
+    "fil": "Ang PAO ay maaaring makipag-ugnayan sa pamamagitan ng pinuno ng presinto. Naaangkop ang karapatang ito sa custodial investigation — kapag ikaw ay 'in custody' ng pulis. Hindi ito naaangkop sa lahat ng interaksyon sa pulis (hal. simpleng tanong sa kalye).",
+    "en": "PAO can be contacted through the station commander. This right applies during custodial investigation — when you are 'in custody' of police. It does not apply to all police interactions (e.g., a brief street question)."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7438, Section 2 — Karapatan sa Abogado",
+        "en": "RA 7438, Section 2 — Right to Counsel"
+      },
+      "lawId": "ra-7438",
+      "section": "Section 2",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/27/republic-act-no-7438/",
+      "sourceName": "official_gazette",
+      "quotedText": "Any person arrested, detained or under custodial investigation shall at all times be assisted by counsel. Any public officer or employee, or anyone acting under his order or his place, who arrests, detains or investigates any person for the commission of an offense shall inform the latter, in a language known to and understood by him, of his rights to remain silent and to have competent and independent counsel, preferably of his own choice, who shall at all times be allowed to confer privately with the person arrested, detained or under custodial investigation."
+    }
+  ],
+  "relatedCardIds": ["police-right-to-remain-silent", "police-warrantless-arrest"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

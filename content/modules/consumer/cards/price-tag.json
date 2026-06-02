@@ -1,0 +1,90 @@
+{
+  "id": "consumer-price-tag",
+  "module": "consumer",
+  "situationTags": [
+    {
+      "fil": "Walang price tag ang item sa tindahan",
+      "en": "Items in the store have no price tags"
+    },
+    {
+      "fil": "Ibang presyo sa kasya at ibang presyo sa counter",
+      "en": "Different price on the shelf and at the counter"
+    }
+  ],
+  "keywords": [
+    "price tag",
+    "presyo",
+    "label",
+    "price display",
+    "RA 7394",
+    "Consumer Act",
+    "DTI",
+    "shelf price",
+    "kasya",
+    "overpricing",
+    "mismatch"
+  ],
+  "right": {
+    "fil": "Ang lahat ng produkto at serbisyo ay dapat may malinaw na price tag o price list. Mayroon kang karapatang malaman ang presyo bago bumili.",
+    "en": "All products and services must have a clear price tag or price list. You have the right to know the price before purchasing."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7394 (Consumer Act), ang mga merchant ay obligadong maglagay ng malinaw na price labels sa lahat ng produkto na ipinagbibili nila. Ang pagkabigo na magbigay ng price tag ay isang paglabag sa batas. Bukod dito, kung may price tag ang produkto at may kaibahan ang presyo sa counter, may karapatan kang humingi ng presyo na nakalagay sa tag.",
+    "en": "Under RA 7394 (Consumer Act), merchants are required to attach clear price labels to all products they sell. Failure to provide price tags is a violation of law. Furthermore, if a product has a price tag and the price at the counter is different, you have the right to purchase at the tagged price."
+  },
+  "theyCannot": [
+    {
+      "fil": "Magbenta ng produkto nang walang price tag o price list.",
+      "en": "Sell products without a price tag or price list."
+    },
+    {
+      "fil": "Singilin ka ng mas mataas na presyo kaysa sa nakalagay sa tag.",
+      "en": "Charge you more than the price on the tag."
+    },
+    {
+      "fil": "Tanggihan na ibenta sa presyo na nakalagay sa shelf kung hindi pa nababago ang tag.",
+      "en": "Refuse to sell at the shelf price if the tag has not been updated."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng price list kung walang price tag.",
+      "en": "Request a price list if there are no price tags."
+    },
+    {
+      "fil": "Itanggi ang pagbabayad ng mas mataas kaysa sa nakalagay sa tag.",
+      "en": "Refuse to pay more than what is on the tag."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DTI tungkol sa paglabag sa price tag law.",
+      "en": "File a complaint with DTI about price tag law violations."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang bawat binibilhang bagay sa tindahan ay dapat may nakalagay na presyo. Kung wala, maaari kang magtanong. Kung iba ang presyo sa counter kaysa sa shelf, may karapatan kang humingi na ibenta sa mas mababang presyo.",
+    "en": "Every item in a store must have a price shown. If not, you can ask. If the counter price is higher than the shelf price, you have the right to buy at the lower price."
+  },
+  "scopeNotes": {
+    "fil": "Ang Price Tag Law ay naaangkop sa lahat ng retail establishments. Ang mga palengke at ilang informal na negosyo ay maaaring may iba't ibang pamantayan ng pagpapatupad. Ang DTI ang responsable sa pagpapatupad ng Consumer Act.",
+    "en": "Price Tag Law applies to all retail establishments. Markets and some informal businesses may have varying enforcement standards. DTI is responsible for enforcing the Consumer Act."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7394 — Consumer Act, Section 81 — Price Tag Law",
+        "en": "RA 7394 — Consumer Act, Section 81 — Price Tag Law"
+      },
+      "lawId": "ra-7394",
+      "section": "Section 81",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+      "sourceName": "official_gazette",
+      "quotedText": "All persons engaged in the business of selling consumer products, whether as manufacturer, producer, importer, wholesaler or distributor, shall affix on each consumer product a price tag, label or marking which shall contain the unit price of the product clearly readable and may not be altered or removed."
+    }
+  ],
+  "relatedCardIds": ["consumer-no-return-no-exchange", "consumer-defective-product"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

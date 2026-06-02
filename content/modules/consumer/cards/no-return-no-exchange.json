@@ -1,0 +1,111 @@
+{
+  "id": "consumer-no-return-no-exchange",
+  "module": "consumer",
+  "situationTags": [
+    {
+      "fil": "Tinatanggihan ng tindahan ang aking return o refund",
+      "en": "The store is refusing my return or refund"
+    },
+    {
+      "fil": "May sign na 'No Return, No Exchange' ang tindahan",
+      "en": "The store has a 'No Return, No Exchange' sign"
+    },
+    {
+      "fil": "Depektibo ang binili ko at ayaw i-replace ng seller",
+      "en": "I bought something defective and the seller won't replace it"
+    }
+  ],
+  "keywords": [
+    "return",
+    "refund",
+    "exchange",
+    "no return no exchange",
+    "defective",
+    "depektibo",
+    "RA 7394",
+    "Consumer Act",
+    "DTI",
+    "warranty",
+    "palitan",
+    "ibalik",
+    "karapatan"
+  ],
+  "right": {
+    "fil": "Ang 'No Return, No Exchange' na patakaran ay ILEGAL sa Pilipinas. Mayroon kang karapatang i-return, i-replace, o i-refund ang isang depektibong produkto.",
+    "en": "A 'No Return, No Exchange' policy is ILLEGAL in the Philippines. You have the right to return, replace, or refund a defective product."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7394 (Consumer Act) at DTI Memorandum Circular No. 10-2020, ang mga consumer ay may karapatang humingi ng: (1) pagpapalit (replacement) ng depektibong produkto, (2) pagkumpuni (repair) ng may sira, o (3) ibabalik ang pera (refund) — lalo na kung ang depekto ay hindi nalaman bago bumili at ang produkto ay hindi ayon sa pag-aari. Ang mga sign na nagbabawal ng return ay ilegal at maaaring parusa ang seller.",
+    "en": "Under RA 7394 (Consumer Act) and DTI Memorandum Circular No. 10-2020, consumers have the right to demand: (1) replacement of a defective product, (2) repair of a defective product, or (3) refund — especially when the defect was not apparent before purchase and the product does not match its description. Signs prohibiting returns are illegal and sellers may be penalized."
+  },
+  "theyCannot": [
+    {
+      "fil": "Mag-post ng 'No Return, No Exchange' sign at ipatupad ito laban sa mga consumer.",
+      "en": "Post a 'No Return, No Exchange' sign and enforce it against consumers."
+    },
+    {
+      "fil": "Tanggihan ang return ng isang produkto na may defect o hindi ayon sa pag-aari.",
+      "en": "Refuse to accept the return of a defective product or one that doesn't match its description."
+    },
+    {
+      "fil": "Bigyan ka lamang ng store credit kaysa ng cash refund para sa defective na item.",
+      "en": "Give you store credit instead of a cash refund for a defective item (you may insist on cash)."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng kapalit na produkto, pagkumpuni, o ibalik ang pera para sa depektibong binili.",
+      "en": "Demand replacement, repair, or refund for a defective purchase."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DTI kung tinatanggihan ang iyong return — 1-384 (1-DTI) o dti.gov.ph.",
+      "en": "File a complaint with DTI if your return is refused — 1-384 (1-DTI) or dti.gov.ph."
+    },
+    {
+      "fil": "I-document ang defect sa pamamagitan ng litrato o video bago bumalik sa tindahan.",
+      "en": "Document the defect through photos or video before returning to the store."
+    },
+    {
+      "fil": "Itago ang resibo — kailangan mo ito para sa return o reklamo.",
+      "en": "Keep your receipt — you need it for returns or complaints."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung binili mo ang isang bagay na sira o hindi ayon sa sinabi ng seller, puwede mo itong ibalik at humingi ng kapalit o pera. Ang 'No Return, No Exchange' ay hindi totoo sa Pilipinas — ito ay labag sa batas.",
+    "en": "If you bought something broken or not as described, you can return it and ask for a replacement or your money back. 'No Return, No Exchange' is not valid in the Philippines — it's against the law."
+  },
+  "scopeNotes": {
+    "fil": "Ang karapatang ito ay naaangkop sa mga depektibong produkto o mga produkto na hindi ayon sa pag-aari. Ang mga item na binili na maayos at naisip mong palit-ulit (buyer's remorse) ay iba ang tuntunin — depende sa patakaran ng tindahan. Ang mga online seller ay sumasaklaw din sa Consumer Act.",
+    "en": "This right applies to defective products or products that don't match their description. Items bought in good condition that you later changed your mind about (buyer's remorse) have different rules — depends on the store's policy. Online sellers are also covered by the Consumer Act."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7394 — Consumer Act, Sections 52–68 (Product Quality and Safety)",
+        "en": "RA 7394 — Consumer Act, Sections 52–68 (Product Quality and Safety)"
+      },
+      "lawId": "ra-7394",
+      "section": "Sections 52–68",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+      "sourceName": "official_gazette",
+      "quotedText": "It shall be unlawful for any merchant, manufacturer, or dealer to engage in any act or practice that violates the consumer's right to be informed, right to choose, and right to redress... Consumer products which are found to be defective shall be replaced or repaired, or their purchase price refunded, at the option of the consumer."
+    },
+    {
+      "label": {
+        "fil": "DTI Memorandum Circular No. 10-2020 — No Return No Exchange Policy",
+        "en": "DTI Memorandum Circular No. 10-2020 — No Return No Exchange Policy"
+      },
+      "lawId": "dti-mc-no10-2020",
+      "section": "Full Circular",
+      "sourceUrl": "https://www.dti.gov.ph/archives/memorandum-circulars/",
+      "sourceName": "dti",
+      "quotedText": "The posting of 'No Return, No Exchange' or similar notices is prohibited and is considered an unfair trade practice under the Consumer Act of the Philippines."
+    }
+  ],
+  "relatedCardIds": ["consumer-defective-product", "consumer-price-tag", "consumer-dti-complaint"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

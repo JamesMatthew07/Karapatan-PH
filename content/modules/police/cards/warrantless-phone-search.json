@@ -1,0 +1,93 @@
+{
+  "id": "police-warrantless-phone-search",
+  "module": "police",
+  "situationTags": [
+    { "fil": "Gusto kunin ng pulis ang cellphone ko", "en": "Police wants to take my phone" },
+    { "fil": "Hinahalughog ang phone ko ng pulis", "en": "Police searching my phone" }
+  ],
+  "keywords": [
+    "cellphone",
+    "phone",
+    "telepono",
+    "search",
+    "warrant",
+    "halughog",
+    "kumpiska",
+    "warrantless",
+    "walang warrant",
+    "seize",
+    "confiscate"
+  ],
+  "right": {
+    "fil": "Hindi basta-basta puwedeng kunin o halughugin ng pulis ang iyong cellphone nang walang search warrant.",
+    "en": "Police generally cannot take or search your cellphone without a search warrant."
+  },
+  "whatThisMeans": {
+    "fil": "Protektado ka ng Saligang Batas laban sa hindi makatwirang paghahalughog at pagkumpiska. Karaniwan, kailangan ng pulis ng warrant mula sa korte bago kunin o tingnan ang laman ng iyong telepono. Ang warrant ay dapat na inilabas ng hukom batay sa probable cause.",
+    "en": "The Constitution protects you from unreasonable searches and seizures. Generally, police need a court-issued warrant before taking or looking through your phone. The warrant must be issued by a judge based on probable cause."
+  },
+  "theyCannot": [
+    {
+      "fil": "Kunin ang telepono mo nang walang warrant o malinaw na legal na batayan.",
+      "en": "Take your phone without a warrant or a clear legal basis."
+    },
+    {
+      "fil": "Pilitin kang i-unlock ito nang walang abogado o malinaw na batayan.",
+      "en": "Force you to unlock it without legal counsel or a clear basis."
+    },
+    {
+      "fil": "Halughugin ang laman ng iyong telepono habang naka-imbak sa isang lugar nang walang warrant.",
+      "en": "Search the contents of your phone stored in the cloud without a warrant."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Magalang na tanungin kung may search warrant sila.",
+      "en": "Politely ask if they have a search warrant."
+    },
+    {
+      "fil": "Sabihin na hindi mo pinapayagan ang paghahalughog — 'Hindi ako pumapayag.'",
+      "en": "Clearly state you do not consent: 'I do not consent to this search.'"
+    },
+    {
+      "fil": "Humingi ng abogado bago sumagot o magbigay ng access.",
+      "en": "Ask for a lawyer before answering or granting access."
+    },
+    {
+      "fil": "Magreklamo sa CHR o Ombudsman kung nilabag ang iyong karapatan.",
+      "en": "File a complaint with the CHR or Ombudsman if your right was violated."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang cellphone mo ay parang bahay mo — kailangan ng pahintulot ng korte (warrant) bago ito buksan ng pulis. Kung walang warrant, puwede kang tumanggi nang magalang.",
+    "en": "Your phone is like your house — police usually need the court's permission (a warrant) to open it. Without one, you can politely refuse."
+  },
+  "scopeNotes": {
+    "fil": "May mga eksepsiyon: (1) kung nahuli ka sa mismong paggawa ng krimen (in flagrante delicto) at ang telepono ay may kaugnayan sa krimen, (2) kung boluntaryo mong binigay ang pahintulot. Ang mga patakaran ay maaaring magkaiba sa ilalim ng iba't ibang ahensiya (PNP, NBI, AFP).",
+    "en": "Exceptions exist: (1) lawful arrest in flagrante delicto where the phone is connected to the crime, (2) your voluntary consent. Rules may differ across agencies (PNP, NBI, AFP). Consult a lawyer for your specific situation."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "Saligang Batas 1987, Artikulo III, Seksiyon 2",
+        "en": "1987 Constitution, Article III, Section 2"
+      },
+      "lawId": "const-1987-art3",
+      "section": "Article III, Section 2",
+      "sourceUrl": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+      "sourceName": "official_gazette",
+      "quotedText": "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the persons or things to be seized."
+    }
+  ],
+  "relatedCardIds": ["police-right-to-remain-silent", "police-warrantless-arrest"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [
+    {
+      "date": "2026-05-30",
+      "note": "Initial sourcing + bilingual draft (Layer 1 + Layer 2). Awaiting Layer-3 legal review before publish."
+    }
+  ]
+}

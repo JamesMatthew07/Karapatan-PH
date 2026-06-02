@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-7924",
+  "title": "RA 7924 — MMDA Charter",
+  "section": "Section 5",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1995/02/22/republic-act-no-7924/",
+  "sourceName": "official_gazette",
+  "modules": ["lto"],
+  "notes": "MMDA powers and limitations; traffic enforcement jurisdiction vs LTO.",
+  "fetchedAt": "2026-05-30T01:26:43.909Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

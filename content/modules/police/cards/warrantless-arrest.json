@@ -1,0 +1,98 @@
+{
+  "id": "police-warrantless-arrest",
+  "module": "police",
+  "situationTags": [
+    {
+      "fil": "Gusto akong aresto-hin ng pulis nang walang warrant",
+      "en": "Police wants to arrest me without a warrant"
+    },
+    {
+      "fil": "Inaaresto ako at hindi ko alam kung legal",
+      "en": "Being arrested and not sure if it's legal"
+    }
+  ],
+  "keywords": [
+    "arrest",
+    "aresto",
+    "warrant",
+    "walang warrant",
+    "warrantless",
+    "in flagrante",
+    "hot pursuit",
+    "Rule 113",
+    "legal arrest",
+    "illegal arrest",
+    "detention"
+  ],
+  "right": {
+    "fil": "Ang pulis ay may karapatang mag-aresto nang walang warrant sa tatlong sitwasyon lamang — at malayo sa mga ito, ang pag-aresto ay ilegal.",
+    "en": "Police may only arrest you without a warrant in three specific situations — outside these, the arrest is illegal."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa Rule 113, Section 5 ng Rules of Court, tatlong sitwasyon lamang ang nagbibigay-pahintulot sa pulis na mag-aresto nang walang warrant: (1) nahuli ka sa mismong paggawa ng krimen (in flagrante delicto), (2) may personal na kaalaman ang pulis na kararating mo lang gumawa ng krimen at hinabol ka nila (hot pursuit), o (3) ikaw ay isang nakalagay na presoner na tumakas. Sa labas ng tatlong ito, kailangan ng pulis ng warrant mula sa korte.",
+    "en": "Under Rule 113, Section 5 of the Rules of Court, police may arrest without a warrant only when: (1) you are caught in the act of committing a crime (in flagrante delicto), (2) an offense has just been committed and police have personal knowledge and chase you immediately (hot pursuit), or (3) you are an escaped prisoner. Outside these three, a court-issued warrant is required."
+  },
+  "theyCannot": [
+    {
+      "fil": "Mag-aresto sayo base sa suspicion o hearsay lamang.",
+      "en": "Arrest you based on suspicion or hearsay alone."
+    },
+    {
+      "fil": "Mag-aresto nang walang warrant dahil lang 'may alam sila' o 'may reklamo'.",
+      "en": "Arrest you without a warrant just because they 'know something' or 'received a complaint.'"
+    },
+    {
+      "fil": "Mag-detain sayo nang higit sa 12–36 oras nang walang formal na charge (depende sa gravity ng krimen).",
+      "en": "Detain you beyond 12–36 hours without a formal charge (depending on gravity of the offense)."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Magtanong nang magalang: 'May warrant ba kayo ng aresto? Maaari ko bang makita?'",
+      "en": "Politely ask: 'Do you have an arrest warrant? May I see it?'"
+    },
+    {
+      "fil": "Huwag tumakas o lumaban — mapanganib ito. Sumalungat nang legal pagkatapos.",
+      "en": "Do not flee or resist physically — it's dangerous. Challenge it legally afterward."
+    },
+    {
+      "fil": "Sabihing 'Hindi ako pumapayag sa pag-aresto' at humingi agad ng abogado.",
+      "en": "State 'I do not consent to this arrest' and immediately request a lawyer."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa CHR o Ombudsman kung ang pag-aresto ay ilegal.",
+      "en": "File a complaint with the CHR or Ombudsman if the arrest was unlawful."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang pulis ay hindi basta-basta makakaresto sayo. Kailangan nilang may papel mula sa huwes (warrant), o nahuli ka talaga sa paggawa ng masama, o habol ka nila agad pagkatapos ng krimen. Kung wala niyon, ilegal ang pag-aresto.",
+    "en": "Police can't just arrest you anytime. They need a paper from a judge (warrant), or catch you doing something wrong, or chase you right after a crime. Without those, the arrest is illegal."
+  },
+  "scopeNotes": {
+    "fil": "Ang 'personal knowledge' sa hot pursuit ay nangangahulugang nandoon talaga ang pulis o may direktang impormasyon — hindi lang sabi-sabi. Ang illegal na pag-aresto ay maaaring i-challenge sa korte sa pamamagitan ng petition for habeas corpus.",
+    "en": "'Personal knowledge' in hot pursuit means police were actually present or had direct information — not just hearsay. An illegal arrest may be challenged in court via a petition for habeas corpus."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "Rules of Court, Rule 113, Section 5 — Warrantless Arrest",
+        "en": "Rules of Court, Rule 113, Section 5 — Warrantless Arrest"
+      },
+      "lawId": "rules-court-rule113",
+      "section": "Rule 113, Section 5",
+      "sourceUrl": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/38",
+      "sourceName": "sc_elibrary",
+      "quotedText": "A peace officer or a private person may, without a warrant, arrest a person: (a) When, in his presence, the person to be arrested has committed, is actually committing, or is attempting to commit an offense; (b) When an offense has just been committed, and he has probable cause to believe based on personal knowledge of facts or circumstances that the person to be arrested has committed it; and (c) When the person to be arrested is a prisoner who has escaped from a penal establishment or place where he is serving final judgment or is temporarily confined while his case is pending, or has escaped while being transferred from one confinement to another."
+    }
+  ],
+  "relatedCardIds": [
+    "police-right-to-remain-silent",
+    "police-warrantless-phone-search",
+    "police-right-to-counsel"
+  ],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

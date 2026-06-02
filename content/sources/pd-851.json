@@ -1,0 +1,14 @@
+{
+  "lawId": "pd-851",
+  "title": "PD 851 — 13th Month Pay Decree",
+  "section": "Sections 1–4",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1975/12/16/presidential-decree-no-851/",
+  "sourceName": "official_gazette",
+  "modules": ["labor"],
+  "notes": "Mandatory 13th month pay for rank-and-file employees; coverage; computation; deadline (Dec 24).",
+  "fetchedAt": "2026-05-30T01:26:47.848Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

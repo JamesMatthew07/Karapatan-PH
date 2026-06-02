@@ -1,0 +1,14 @@
+{
+  "lawId": "labor-code",
+  "title": "Labor Code of the Philippines (PD 442 as amended)",
+  "section": "Book VI — Post-Employment",
+  "sourceUrl": "https://www.dole.gov.ph/labor-code-of-the-philippines/",
+  "sourceName": "dole",
+  "modules": ["labor"],
+  "notes": "Illegal dismissal (Art.294/279), security of tenure, separation pay (Art.298/283), just/authorized causes.",
+  "fetchedAt": "2026-05-30T01:26:46.601Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 5581,
+  "errorMessage": "HTTP 403 Forbidden"
+}

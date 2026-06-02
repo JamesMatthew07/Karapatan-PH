@@ -1,0 +1,155 @@
+[
+  {
+    "lawId": "const-1987-art3",
+    "title": "1987 Constitution, Article III — Bill of Rights",
+    "section": "Article III",
+    "sourceUrl": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+    "sourceName": "official_gazette",
+    "modules": ["police", "labor", "barangay", "consumer"],
+    "notes": "Sections 1–22. Covers right to remain silent (§12), right against unreasonable search/seizure (§2), due process (§1), equal protection (§1), free speech (§4)."
+  },
+  {
+    "lawId": "ra-7438",
+    "title": "RA 7438 — Rights of Persons Arrested, Detained or Under Custodial Investigation",
+    "section": "Sections 1–5",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/27/republic-act-no-7438/",
+    "sourceName": "official_gazette",
+    "modules": ["police"],
+    "notes": "PH Miranda rights equivalent. Right to counsel, to remain silent, to be informed of rights. Custodial investigation definition."
+  },
+  {
+    "lawId": "ra-9745",
+    "title": "RA 9745 — Anti-Torture Act of 2009",
+    "section": "Sections 4–8",
+    "sourceUrl": "https://www.officialgazette.gov.ph/2009/11/10/republic-act-no-9745/",
+    "sourceName": "official_gazette",
+    "modules": ["police"],
+    "notes": "Defines torture; rights of persons during detention; prohibition on evidence obtained through torture."
+  },
+  {
+    "lawId": "rules-court-rule113",
+    "title": "Rules of Court, Rule 113 — Arrest",
+    "section": "Rule 113, Sections 1–9",
+    "sourceUrl": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/38",
+    "sourceName": "sc_elibrary",
+    "modules": ["police"],
+    "notes": "Lawful arrest with and without warrant (Sec.5). In flagrante delicto, hot pursuit. Rights of the arrested."
+  },
+  {
+    "lawId": "ra-6975",
+    "title": "RA 6975 — Department of Interior and Local Government Act (PNP Act)",
+    "section": "Sections 41–43",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1990/12/13/republic-act-no-6975/",
+    "sourceName": "official_gazette",
+    "modules": ["police"],
+    "notes": "PNP operational procedures; limits of police authority; accountability."
+  },
+  {
+    "lawId": "ra-4136",
+    "title": "RA 4136 — Land Transportation and Traffic Code",
+    "section": "Sections 21–30, 56–68",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1964/06/20/republic-act-no-4136/",
+    "sourceName": "official_gazette",
+    "modules": ["lto"],
+    "notes": "Driver's license requirements, apprehension rules, confiscation scope (license vs OR/CR)."
+  },
+  {
+    "lawId": "ra-7924",
+    "title": "RA 7924 — MMDA Charter",
+    "section": "Section 5",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1995/02/22/republic-act-no-7924/",
+    "sourceName": "official_gazette",
+    "modules": ["lto"],
+    "notes": "MMDA powers and limitations; traffic enforcement jurisdiction vs LTO."
+  },
+  {
+    "lawId": "ra-6539",
+    "title": "RA 6539 — Anti-Carnapping Act (as amended by RA 10883)",
+    "section": "Sections 1–5",
+    "sourceUrl": "https://www.officialgazette.gov.ph/2016/07/17/republic-act-no-10883/",
+    "sourceName": "official_gazette",
+    "modules": ["lto"],
+    "notes": "OR/CR vs license confiscation distinction. Vehicle registration requirements."
+  },
+  {
+    "lawId": "labor-code",
+    "title": "Labor Code of the Philippines (PD 442 as amended)",
+    "section": "Book VI — Post-Employment",
+    "sourceUrl": "https://www.dole.gov.ph/labor-code-of-the-philippines/",
+    "sourceName": "dole",
+    "modules": ["labor"],
+    "notes": "Illegal dismissal (Art.294/279), security of tenure, separation pay (Art.298/283), just/authorized causes."
+  },
+  {
+    "lawId": "pd-851",
+    "title": "PD 851 — 13th Month Pay Decree",
+    "section": "Sections 1–4",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1975/12/16/presidential-decree-no-851/",
+    "sourceName": "official_gazette",
+    "modules": ["labor"],
+    "notes": "Mandatory 13th month pay for rank-and-file employees; coverage; computation; deadline (Dec 24)."
+  },
+  {
+    "lawId": "ra-7877",
+    "title": "RA 7877 — Anti-Sexual Harassment Act of 1995",
+    "section": "Sections 1–6",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1995/02/14/republic-act-no-7877/",
+    "sourceName": "official_gazette",
+    "modules": ["labor"],
+    "notes": "Sexual harassment in work/training/education; employer duties; complaint process."
+  },
+  {
+    "lawId": "ra-11313",
+    "title": "RA 11313 — Safe Spaces Act (Bawal Bastos Law)",
+    "section": "Sections 3–11",
+    "sourceUrl": "https://www.officialgazette.gov.ph/2019/04/17/republic-act-no-11313/",
+    "sourceName": "official_gazette",
+    "modules": ["labor", "police"],
+    "notes": "Gender-based harassment in public, online, and workplace settings. Catcalling, wolf-whistling. Covers all genders."
+  },
+  {
+    "lawId": "ra-6727",
+    "title": "RA 6727 — Wage Rationalization Act (minimum wage)",
+    "section": "Sections 1–10",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1989/06/09/republic-act-no-6727/",
+    "sourceName": "official_gazette",
+    "modules": ["labor"],
+    "notes": "Minimum wage setting via Regional Tripartite Wages and Productivity Boards. Cards must link to current regional wage order from DOLE."
+  },
+  {
+    "lawId": "ra-7160-barangay",
+    "title": "RA 7160 — Local Government Code (Barangay provisions)",
+    "section": "Book III, Title I — The Barangay",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+    "sourceName": "official_gazette",
+    "modules": ["barangay"],
+    "notes": "Powers of barangay officials (punong barangay, kagawad); Katarungang Pambarangay (Secs.399–422); Lupon Tagapamayapa; barangay ordinance powers and limits."
+  },
+  {
+    "lawId": "ra-7394",
+    "title": "RA 7394 — Consumer Act of the Philippines",
+    "section": "Sections 52–59 (consumer product quality/safety), 68–77 (deceptive practices), 100–115 (price tag)",
+    "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+    "sourceName": "official_gazette",
+    "modules": ["consumer"],
+    "notes": "Right to refund/replacement; price tag law (displaying prices mandatory); deceptive/unfair sales acts; product safety; DTI enforcement."
+  },
+  {
+    "lawId": "dti-mc-no10-2020",
+    "title": "DTI Memorandum Circular No.10-2020 — No Return No Exchange Policy",
+    "section": "Full text",
+    "sourceUrl": "https://www.dti.gov.ph/archives/memorandum-circulars/",
+    "sourceName": "dti",
+    "modules": ["consumer"],
+    "notes": "'No return, no exchange' signs are illegal under MC 10-2020 and RA 7394. Consumer has right to repair/replacement/refund for defective goods within warranty."
+  },
+  {
+    "lawId": "ra-8792",
+    "title": "RA 8792 — Electronic Commerce Act",
+    "section": "Sections 30–34",
+    "sourceUrl": "https://www.officialgazette.gov.ph/2000/06/14/republic-act-no-8792/",
+    "sourceName": "official_gazette",
+    "modules": ["consumer"],
+    "notes": "Online seller obligations; electronic transactions; consumer protection in e-commerce."
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "id": "lto-contest-ticket",
+  "module": "lto",
+  "situationTags": [
+    {
+      "fil": "Gusto kong i-contest ang traffic ticket ko",
+      "en": "I want to contest my traffic ticket"
+    },
+    {
+      "fil": "Hindi ako sang-ayon sa violation na nakasulat sa TVR ko",
+      "en": "I disagree with the violation written on my TVR"
+    }
+  ],
+  "keywords": [
+    "contest",
+    "dispute",
+    "TVR",
+    "traffic ticket",
+    "adjudication",
+    "hearing",
+    "LTO",
+    "MMDA",
+    "appeal",
+    "violation",
+    "challenge",
+    "i-challenge"
+  ],
+  "right": {
+    "fil": "Mayroon kang karapatang i-contest ang isang traffic violation ticket sa pamamagitan ng opisyal na proseso — hindi mo kailangang tanggapin ang violation kung naniniwala kang mali ito.",
+    "en": "You have the right to contest a traffic violation ticket through official procedure — you do not have to accept the violation if you believe it is wrong."
+  },
+  "whatThisMeans": {
+    "fil": "Ang bawat TVR ay may nakalagay na petsa at lugar ng hearing. Maaari kang lumabas sa hearing na iyon at ipahayag ang iyong panig. Kung hindi ka lalabas, ang violation ay maaaring maging final. Ang proseso ay libre at hindi kailangan ng abogado para sa simpleng violations.",
+    "en": "Each TVR includes a hearing date and location. You can appear at that hearing and present your side. If you do not appear, the violation may become final. The process is free and you do not need a lawyer for simple violations."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggihan ang iyong karapatang lumabas sa hearing.",
+      "en": "Deny your right to appear at a hearing."
+    },
+    {
+      "fil": "Gawing final ang violation nang hindi ka pinabibigyan ng pagkakataon na magsalita.",
+      "en": "Make the violation final without giving you an opportunity to speak."
+    },
+    {
+      "fil": "Pilitin kang magbayad agad nang wala pang hearing.",
+      "en": "Force you to pay without allowing a hearing first."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Lumabas sa hearing na nakasulat sa TVR at dalhin ang iyong ebidensya — litrato, dashcam video, saksi.",
+      "en": "Appear at the hearing date on the TVR and bring your evidence — photos, dashcam footage, witnesses."
+    },
+    {
+      "fil": "Humingi ng kopya ng sinumpaang salaysay ng opisyal (sworn statement) bago ang hearing.",
+      "en": "Request a copy of the officer's sworn statement before the hearing."
+    },
+    {
+      "fil": "I-appeal ang desisyon sa mas mataas na antas ng LTO kung hindi ka sang-ayon sa resulta.",
+      "en": "Appeal the decision to a higher LTO level if you disagree with the result."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung sa tingin mo ay mali ang traffic ticket, may karapatan kang pumunta sa opisina at ipaliwanag ang iyong panig. Dalhin ang mga ebidensya tulad ng litrato o video. Hindi mo kailangang tanggapin ang ticket nang basta-basta.",
+    "en": "If you think the traffic ticket is wrong, you have the right to go to their office and explain your side. Bring evidence like photos or video. You don't have to just accept the ticket."
+  },
+  "scopeNotes": {
+    "fil": "Ang proseso ng pag-contest ay nag-iiba sa pagitan ng LTO, MMDA, at lokal na LGU. Siguraduhing pumunta ka sa tamang opisina ayon sa nakalagay sa iyong TVR. Huwag palampas ang petsa ng hearing.",
+    "en": "The contest process differs between LTO, MMDA, and local LGUs. Make sure you go to the correct office as indicated on your TVR. Do not miss the hearing date."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 4136 — Land Transportation and Traffic Code",
+        "en": "RA 4136 — Land Transportation and Traffic Code"
+      },
+      "lawId": "ra-4136",
+      "section": "Section 64",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1964/06/20/republic-act-no-4136/",
+      "sourceName": "official_gazette",
+      "quotedText": "The Land Transportation Commission shall have the power to suspend or revoke any certificate of public convenience or any license or permit issued under the provisions of this Act..."
+    }
+  ],
+  "relatedCardIds": ["lto-license-vs-orcr", "lto-valid-apprehension"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

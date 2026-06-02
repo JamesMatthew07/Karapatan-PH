@@ -1,0 +1,87 @@
+{
+  "id": "consumer-defective-product",
+  "module": "consumer",
+  "situationTags": [
+    { "fil": "Depektibo ang produkto na binili ko", "en": "The product I bought is defective" },
+    {
+      "fil": "Hindi gumagana ang binili ko pagdating sa bahay",
+      "en": "What I bought doesn't work when I got home"
+    }
+  ],
+  "keywords": [
+    "defective",
+    "depektibo",
+    "sira",
+    "broken",
+    "warranty",
+    "RA 7394",
+    "Consumer Act",
+    "repair",
+    "replace",
+    "refund",
+    "product safety"
+  ],
+  "right": {
+    "fil": "Kung depektibo ang produkto na binili mo, mayroon kang karapatang humingi ng pagkumpuni, kapalit, o ibabalik ang iyong pera — depende sa uri at gravity ng depekto.",
+    "en": "If a product you bought is defective, you have the right to demand repair, replacement, or refund — depending on the type and severity of the defect."
+  },
+  "whatThisMeans": {
+    "fil": "Ang Consumer Act ay nagbibigay sa mga consumer ng tatlong opsyon para sa defective na produkto: (1) Repair — pagkumpuni ng produkto sa gastos ng seller; (2) Replacement — palitan ng bagong produkto; (3) Refund — ibalik ang pera. Ang pagpili sa pagitan ng tatlong ito ay nasa consumer. Sa ilang kaso, ang lahat ng tatlo ay maaaring hilingin depende sa severity ng depekto at kung gaano karaming beses na sinubukan ang ayusin.",
+    "en": "The Consumer Act gives consumers three options for defective products: (1) Repair — have the product fixed at the seller's expense; (2) Replacement — exchange for a new product; (3) Refund — get your money back. The consumer chooses among these three. In some cases, all three may be available depending on the severity of the defect and how many repair attempts were made."
+  },
+  "theyCannot": [
+    {
+      "fil": "Piliin para sa iyo ang pagkumpuni lamang nang walang pagbibigay ng opsyon na palitan o refund.",
+      "en": "Choose repair only for you without giving the option of replacement or refund."
+    },
+    {
+      "fil": "Tanggihan ang lahat ng remedyo para sa depektibong produkto.",
+      "en": "Refuse all remedies for a defective product."
+    },
+    {
+      "fil": "Singilin ka para sa pagkumpuni ng isang produkto na depektibo mula pa sa simula.",
+      "en": "Charge you for repairing a product that was defective from the start."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Piliin ang pagkumpuni, pagpapalit, o refund — ikaw ang pumipili ng remedyo.",
+      "en": "Choose repair, replacement, or refund — you decide the remedy."
+    },
+    {
+      "fil": "Itago ang lahat ng dokumentasyon — resibo, warranty card, at litrato ng defect.",
+      "en": "Keep all documentation — receipt, warranty card, and photos of the defect."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DTI kung tinatanggihan ng seller ang iyong kahilingan.",
+      "en": "File a complaint with DTI if the seller refuses your demand."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung ang binili mo ay sira mula pa sa umpisa, hindi mo kailangang tanggapin ito. Maaari kang humingi na ayusin, palitan, o ibalik ang iyong pera. Ikaw ang pumipili kung alin sa tatlo.",
+    "en": "If what you bought was broken from the start, you don't have to accept it. You can ask for it to be fixed, replaced, or get your money back. You choose which of the three."
+  },
+  "scopeNotes": {
+    "fil": "Ang warranty period ay nag-iiba ayon sa produkto at manufacturer. Ang ilang defects ay maaaring hindi saklaw kung dulot ng maling paggamit ng consumer. Para sa mataas na halaga na produkto, kumonsulta sa abogado o DTI para sa tamang proseso.",
+    "en": "Warranty periods vary by product and manufacturer. Some defects may not be covered if caused by consumer misuse. For high-value items, consult a lawyer or DTI for the proper procedure."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7394 — Consumer Act, Section 68 — Consumer Product Quality and Safety",
+        "en": "RA 7394 — Consumer Act, Section 68 — Consumer Product Quality and Safety"
+      },
+      "lawId": "ra-7394",
+      "section": "Section 68",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+      "sourceName": "official_gazette",
+      "quotedText": "Consumer products found to be defective shall be repaired by the manufacturer, distributor, or seller free of charge, or replaced with the same or equivalent model, or refunded with the full purchase price within thirty (30) days from the date of demand."
+    }
+  ],
+  "relatedCardIds": ["consumer-no-return-no-exchange", "consumer-dti-complaint"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

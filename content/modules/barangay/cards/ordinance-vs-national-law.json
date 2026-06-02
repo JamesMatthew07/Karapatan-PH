@@ -1,0 +1,100 @@
+{
+  "id": "barangay-ordinance-vs-national",
+  "module": "barangay",
+  "situationTags": [
+    {
+      "fil": "May ordinansa ang barangay na parang sumasalungat sa pambansang batas",
+      "en": "The barangay has an ordinance that seems to contradict national law"
+    },
+    {
+      "fil": "Pinaparusahan ako ng barangay sa isang bagay na legal naman sa batas",
+      "en": "The barangay is penalizing me for something legal under national law"
+    }
+  ],
+  "keywords": [
+    "ordinance",
+    "ordinansa",
+    "national law",
+    "supremacy",
+    "hierarchy",
+    "barangay",
+    "LGU",
+    "conflict",
+    "constitution",
+    "higher law"
+  ],
+  "right": {
+    "fil": "Ang mga batas ng barangay (ordinansa) ay hindi maaaring salungatin ang mga pambansa, probinsyal, o panglunsod na batas. Sa anumang salungatan, ang mas mataas na batas ang nanaig.",
+    "en": "Barangay laws (ordinances) cannot contradict national, provincial, or city laws. In any conflict, the higher law prevails."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa Saligang Batas ng 1987 at RA 7160, may hierarchy ng batas sa Pilipinas: ang Konstitusyon ang pinakamataas, kasunod ang mga pambansang batas (Republic Acts), pagkatapos ang mga probinsyal at panglunsod na ordinansa, at sa pinakababa ay ang mga ordinansa ng barangay. Kung ang isang barangay ordinance ay sumasalungat sa mas mataas na batas, ang ordinansang iyon ay walang bisa.",
+    "en": "Under the 1987 Constitution and RA 7160, there is a hierarchy of laws in the Philippines: the Constitution is highest, followed by national laws (Republic Acts), then provincial and city ordinances, and at the bottom are barangay ordinances. If a barangay ordinance conflicts with a higher law, that ordinance is void."
+  },
+  "theyCannot": [
+    {
+      "fil": "Mag-pass ng ordinansa na nagbabawal ng isang bagay na legal sa ilalim ng pambansang batas.",
+      "en": "Pass an ordinance that prohibits something legally allowed under national law."
+    },
+    {
+      "fil": "Maningil ng parusa o multa na lampas sa pinahihintulutan ng batas para sa barangay.",
+      "en": "Impose penalties or fines beyond what the law allows for barangay ordinances."
+    },
+    {
+      "fil": "Limitahan ang mga karapatang garantisado ng Konstitusyon sa pamamagitan ng barangay ordinance.",
+      "en": "Restrict rights guaranteed by the Constitution through a barangay ordinance."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng kopya ng barangay ordinance at alamin kung ito ay sumasalungat sa pambansang batas.",
+      "en": "Request a copy of the barangay ordinance and determine if it conflicts with national law."
+    },
+    {
+      "fil": "I-challenge ang ordinansa sa Sangguniang Panlunsod/Bayan, DILG, o sa korte.",
+      "en": "Challenge the ordinance with the Sangguniang Panlunsod/Bayan, DILG, or in court."
+    },
+    {
+      "fil": "Kumonsulta sa isang abogado kung ang ordinansa ay talagang sumasalungat sa iyong mga karapatan.",
+      "en": "Consult a lawyer if the ordinance actually conflicts with your rights."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang mga patakaran ng barangay ay katulad ng mga panuntunan ng isang samahan — puwede silang gumawa ng kanilang sariling patakaran, ngunit hindi ito maaaring salungatin ang batas ng bansa. Kung may salungatan, ang batas ng bansa ang susundin.",
+    "en": "Barangay rules are like club rules — they can make their own rules, but those rules cannot contradict the country's laws. If there's a conflict, the country's law wins."
+  },
+  "scopeNotes": {
+    "fil": "Ang pagtukoy kung ang isang ordinansa ay sumasalungat sa pambansang batas ay maaaring kumplikado. Kumonsulta sa abogado para sa mga tiyak na kaso. Ang DILG ay may kapangyarihang mag-review ng mga lokal na ordinansa para sa compliance.",
+    "en": "Determining whether an ordinance conflicts with national law can be complex. Consult a lawyer for specific cases. DILG has authority to review local ordinances for compliance."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7160 — Local Government Code, Section 458 (Supremacy ng mas mataas na batas)",
+        "en": "RA 7160 — Local Government Code, Section 458 (Supremacy of higher law)"
+      },
+      "lawId": "ra-7160-barangay",
+      "section": "Section 458",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+      "sourceName": "official_gazette",
+      "quotedText": "The sangguniang barangay, as the legislative body of the barangay, shall enact ordinances as may be necessary to discharge the responsibilities conferred upon it by law or ordinance and to promote the general welfare of the inhabitants within its territorial jurisdiction."
+    },
+    {
+      "label": {
+        "fil": "Saligang Batas 1987, Artikulo X — Local Government (Hierarchy ng Batas)",
+        "en": "1987 Constitution, Article X — Local Government (Hierarchy of Laws)"
+      },
+      "lawId": "const-1987-art3",
+      "section": "Article X, Section 5",
+      "sourceUrl": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+      "sourceName": "official_gazette",
+      "quotedText": "Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees, and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees, and charges shall accrue exclusively to the local governments."
+    }
+  ],
+  "relatedCardIds": ["barangay-official-powers", "barangay-katarungang-pambarangay"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

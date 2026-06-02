@@ -1,0 +1,99 @@
+{
+  "id": "labor-illegal-dismissal",
+  "module": "labor",
+  "situationTags": [
+    { "fil": "Tinanggal ako sa trabaho", "en": "I was fired from my job" },
+    {
+      "fil": "Sinabihan akong mag-resign o tatanggalin nila ako",
+      "en": "Told to resign or be fired"
+    },
+    { "fil": "Tinanggal ako nang walang abiso o dahilan", "en": "Fired without notice or reason" }
+  ],
+  "keywords": [
+    "fired",
+    "dismissal",
+    "tinanggal",
+    "illegal dismissal",
+    "Labor Code",
+    "security of tenure",
+    "just cause",
+    "authorized cause",
+    "NLRC",
+    "DOLE",
+    "separation pay",
+    "reinstatement",
+    "notice",
+    "due process"
+  ],
+  "right": {
+    "fil": "Hindi maaaring tanggalin ang isang regular na empleyado nang walang just cause o authorized cause, at nang walang due process. Ang illegal dismissal ay nagbibigay sa iyo ng karapatang maisauli sa trabaho at mabayaran ng back wages.",
+    "en": "A regular employee cannot be dismissed without just cause or authorized cause, and without due process. Illegal dismissal entitles you to reinstatement and full back wages."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa Labor Code (Article 294/279), ang seguridad ng panahon ng trabaho ay isang karapatang konstitusyonal. Ang employer ay maaari lamang magtanggal ng empleyado sa dalawang dahilan: (1) Just Cause — kapabayaan, panloloko, pakikipagsabwatan, paglabag sa tiwala, o iba pang katulad; (2) Authorized Cause — redundancy, retrenchment, closure. Sa alinmang kaso, kailangan ng employer na: (a) magbigay ng nakasulat na abiso ng dahilan, (b) magbigay ng pagkakataon na magsalita ang empleyado, at (c) magbigay ng pangalawang abiso ng desisyon. Ang paglabag sa alinman ay nagdudulot ng illegal dismissal.",
+    "en": "Under the Labor Code (Article 294/279), security of tenure is a constitutional right. An employer may only dismiss an employee for: (1) Just Cause — serious misconduct, fraud, willful disobedience, gross neglect, or similar; (2) Authorized Cause — redundancy, retrenchment, closure. In either case, the employer must: (a) give a written notice stating the reason, (b) give the employee an opportunity to explain, and (c) issue a second written notice of the decision. Violation of any of these results in illegal dismissal."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggalin ka nang walang nakasulat na abiso.",
+      "en": "Dismiss you without a written notice."
+    },
+    {
+      "fil": "Pilitin kang mag-resign para maiwasan ang pagbabayad ng benepisyo.",
+      "en": "Force you to resign to avoid paying benefits (constructive dismissal)."
+    },
+    {
+      "fil": "Tanggalin ka dahil sa iyong membership sa union o aktibismo.",
+      "en": "Fire you for joining a union or participating in union activities."
+    },
+    {
+      "fil": "Magbigay ng 'floating status' nang higit sa 6 buwan nang walang valid na dahilan.",
+      "en": "Place you on 'floating status' for more than 6 months without a valid reason."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Mag-file ng reklamo sa DOLE para sa single entry approach (SEnA) — libre at mabilis.",
+      "en": "File a complaint with DOLE through its Single Entry Approach (SEnA) — free and fast."
+    },
+    {
+      "fil": "Mag-file ng illegal dismissal case sa National Labor Relations Commission (NLRC).",
+      "en": "File an illegal dismissal case with the National Labor Relations Commission (NLRC)."
+    },
+    {
+      "fil": "Humingi ng reinstatement (pagbabalik sa trabaho) at full back wages.",
+      "en": "Claim reinstatement (return to work) and full back wages."
+    },
+    {
+      "fil": "I-document ang lahat — mga email, mensahe, memo na natanggap mo bago tanggalin.",
+      "en": "Document everything — emails, messages, memos you received before dismissal."
+    }
+  ],
+  "eli5": {
+    "fil": "Hindi basta-basta puwedeng tanggalin ng employer ang isang regular na empleyado. Kailangan may malinaw na dahilan at tamang proseso. Kung walang dahilan o proseso, maaari kang mag-file ng kaso at makuha ang iyong trabaho muli o bayad.",
+    "en": "An employer can't just fire a regular employee without reason. There must be a valid reason and proper process. If neither was followed, you can file a case and get your job back or receive compensation."
+  },
+  "scopeNotes": {
+    "fil": "Ang mga probationary employees (6 buwan o mas maikli pa ng trabaho) ay may iba't ibang proteksyon. Ang mga kasambahay ay saklaw ng Kasambahay Law (RA 10361). Ang mga government employees ay saklaw ng Civil Service rules, hindi ng Labor Code.",
+    "en": "Probationary employees (6 months or less of employment) have different protections. Household helpers are covered by the Kasambahay Law (RA 10361). Government employees are covered by Civil Service rules, not the Labor Code."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "Labor Code, Article 294 (dati 279) — Seguridad ng Panahon ng Trabaho",
+        "en": "Labor Code, Article 294 (formerly 279) — Security of Tenure"
+      },
+      "lawId": "labor-code",
+      "section": "Article 294 (formerly 279)",
+      "sourceUrl": "https://www.dole.gov.ph/labor-code-of-the-philippines/",
+      "sourceName": "dole",
+      "quotedText": "In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+    }
+  ],
+  "relatedCardIds": ["labor-security-of-tenure", "labor-separation-pay", "labor-13th-month-pay"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

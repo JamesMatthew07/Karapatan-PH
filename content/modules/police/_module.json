@@ -1,0 +1,10 @@
+{
+  "id": "police",
+  "title": { "fil": "Pakikitungo sa Pulis", "en": "Police Encounters" },
+  "description": {
+    "fil": "Alamin ang iyong karapatan kapag hinarang o inaaresto ka ng pulis.",
+    "en": "Know your rights when stopped or arrested by police."
+  },
+  "icon": "🚔",
+  "situations": [{ "fil": "Hinarang ako ng pulis", "en": "I was stopped by police" }]
+}

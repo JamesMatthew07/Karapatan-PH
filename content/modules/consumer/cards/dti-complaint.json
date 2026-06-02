@@ -1,0 +1,94 @@
+{
+  "id": "consumer-dti-complaint",
+  "module": "consumer",
+  "situationTags": [
+    {
+      "fil": "Gusto kong magreklamo sa DTI tungkol sa isang negosyo",
+      "en": "I want to file a complaint with DTI against a business"
+    },
+    {
+      "fil": "Nalabag ang aking karapatan bilang consumer at hindi tumutulong ang tindahan",
+      "en": "My consumer rights were violated and the store isn't helping"
+    }
+  ],
+  "keywords": [
+    "DTI",
+    "complaint",
+    "reklamo",
+    "consumer rights",
+    "karapatan",
+    "violation",
+    "paglabag",
+    "file",
+    "report",
+    "RA 7394",
+    "process"
+  ],
+  "right": {
+    "fil": "May karapatan kang magreklamo sa DTI kung nilabag ng isang negosyo ang iyong karapatan bilang consumer — ito ay libre at pormal na proseso.",
+    "en": "You have the right to file a complaint with DTI if a business violated your consumer rights — this is a free and formal process."
+  },
+  "whatThisMeans": {
+    "fil": "Ang DTI (Department of Trade and Industry) ang pangunahing ahensiya na nagpoprotekta sa mga karapatan ng consumer sa Pilipinas. Maaari kang magreklamo para sa mga paglabag tulad ng: no return no exchange, price tag violations, defective products, deceptive advertising, at iba pa. Ang proseso ay libre at maaaring gawin online o sa DTI office.",
+    "en": "The DTI (Department of Trade and Industry) is the primary agency protecting consumer rights in the Philippines. You can file a complaint for violations such as: no return no exchange, price tag violations, defective products, deceptive advertising, and more. The process is free and can be done online or at a DTI office."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggihan ang pagtanggap ng iyong reklamo kung may valid na dahilan ka.",
+      "en": "Refuse to receive your complaint if you have a valid reason."
+    },
+    {
+      "fil": "Sisingilin ka ng bayad para sa pag-file ng reklamo sa DTI.",
+      "en": "Charge you a fee for filing a complaint with DTI."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Mag-file ng reklamo online sa dti.gov.ph o tumawag sa 1-384 (1-DTI).",
+      "en": "File a complaint online at dti.gov.ph or call 1-384 (1-DTI)."
+    },
+    {
+      "fil": "Pumunta sa pinakamalapit na DTI provincial/regional office para sa in-person filing.",
+      "en": "Go to the nearest DTI provincial/regional office for in-person filing."
+    },
+    {
+      "fil": "Ihanda ang mga suporta sa iyong reklamo: resibo, litrato, screenshots, at dokumentasyon ng paglabag.",
+      "en": "Prepare supporting documents: receipt, photos, screenshots, and documentation of the violation."
+    },
+    {
+      "fil": "Humingi ng mediation sa pagitan mo at ng negosyo bago mag-formal na kaso.",
+      "en": "Request mediation between you and the business before a formal case."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung may naglabag sa iyong karapatan bilang mamimili at hindi mo maresolba sa tindahan, maaari kang pumunta sa DTI para tulungan ka. Libre ito. Kailangan mo lang ng mga patunay tulad ng resibo at litrato.",
+    "en": "If someone violated your rights as a buyer and you can't resolve it with the store, you can go to DTI for help. It's free. You just need proof like receipts and photos."
+  },
+  "scopeNotes": {
+    "fil": "Ang DTI ay may hurisdiksyon sa mga consumer complaints laban sa mga negosyo. Para sa mga online scam, maaaring mas angkop ang NBI Cybercrime Division. Para sa mga kaso na may kinalaman sa pagbebenta ng counterfeit o mapanganib na produkto, maaari ring kasangkot ang FDA o PNP.",
+    "en": "DTI has jurisdiction over consumer complaints against businesses. For online scams, the NBI Cybercrime Division may be more appropriate. For cases involving counterfeit or dangerous products, FDA or PNP may also be involved."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7394 — Consumer Act, Section 160–165 — Enforcement at Complaint Process",
+        "en": "RA 7394 — Consumer Act, Sections 160–165 — Enforcement and Complaint Process"
+      },
+      "lawId": "ra-7394",
+      "section": "Sections 160–165",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+      "sourceName": "official_gazette",
+      "quotedText": "Any consumer may file a complaint with the Department of Trade and Industry against any person, partnership, corporation, association or any entity for violation of any provisions of this Act... The Department shall have the power to investigate all cases involving violations of this Act."
+    }
+  ],
+  "relatedCardIds": [
+    "consumer-no-return-no-exchange",
+    "consumer-defective-product",
+    "consumer-online-seller"
+  ],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

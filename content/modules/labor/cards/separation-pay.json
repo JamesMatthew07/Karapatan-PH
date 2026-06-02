@@ -1,0 +1,89 @@
+{
+  "id": "labor-separation-pay",
+  "module": "labor",
+  "situationTags": [
+    {
+      "fil": "Tinanggal ako dahil sa redundancy o closure ng kumpanya",
+      "en": "I was laid off due to redundancy or company closure"
+    },
+    {
+      "fil": "Gusto kong malaman kung may separation pay ako",
+      "en": "I want to know if I'm entitled to separation pay"
+    }
+  ],
+  "keywords": [
+    "separation pay",
+    "bayad",
+    "redundancy",
+    "retrenchment",
+    "closure",
+    "Labor Code",
+    "Article 298",
+    "Article 299",
+    "lay off",
+    "retrenched"
+  ],
+  "right": {
+    "fil": "Kung tinanggal ka dahil sa authorized cause (tulad ng redundancy, retrenchment, o closure), mayroon kang karapatang makatanggap ng separation pay.",
+    "en": "If you were dismissed due to an authorized cause (such as redundancy, retrenchment, or company closure), you are entitled to separation pay."
+  },
+  "whatThisMeans": {
+    "fil": "Ang Labor Code ay nagtatakda ng separation pay depende sa dahilan ng pagtatanggal: (1) Redundancy — isang buwang sahod bawat taon ng serbisyo; (2) Retrenchment o closure dahil sa pagkalugi — kalahating buwang sahod bawat taon ng serbisyo; (3) Disease/Sakit — kalahating buwang sahod bawat taon ng serbisyo. Ang bahagi ng isang taon na 6 buwan o higit pa ay binibilang bilang isang buong taon.",
+    "en": "The Labor Code sets separation pay based on the reason for dismissal: (1) Redundancy — one month's pay per year of service; (2) Retrenchment or closure due to losses — one-half month's pay per year of service; (3) Disease — one-half month's pay per year of service. A fraction of a year of at least six months is counted as a full year."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggalin ka dahil sa authorized cause nang hindi nagbibigay ng separation pay.",
+      "en": "Dismiss you for authorized cause without paying separation pay."
+    },
+    {
+      "fil": "Bigyan ka ng separation pay na mas mababa sa itinakda ng batas.",
+      "en": "Give you separation pay below the legally mandated amount."
+    },
+    {
+      "fil": "Pigilan kang makatanggap ng separation pay sa pamamagitan ng pagpapirma ng waiver nang walang patas na kapalit.",
+      "en": "Prevent you from receiving separation pay by making you sign a waiver without fair consideration."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Kalkulahin ang iyong separation pay: (monthly salary × years of service × applicable rate).",
+      "en": "Calculate your separation pay: (monthly salary × years of service × applicable rate)."
+    },
+    {
+      "fil": "Mag-file ng money claim sa NLRC kung hindi nagbabayad ang employer.",
+      "en": "File a money claim with the NLRC if your employer refuses to pay."
+    },
+    {
+      "fil": "Kumonsulta sa DOLE para malaman ang tamang halaga ng iyong separation pay.",
+      "en": "Consult with DOLE to determine the correct amount of your separation pay."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung tinanggal ka dahil nawala ang trabaho (hindi dahil sa kasalanan mo), may karapatan kang makakuha ng bayad batay sa ilang taon kang nagtrabaho. Halimbawa: 5 taon ka nagtrabaho sa redundancy — makakakuha ka ng 5 buwang sahod.",
+    "en": "If you lost your job (not because of your fault), you're entitled to receive pay based on your years of service. For example: 5 years of service for redundancy — you receive 5 months' worth of salary."
+  },
+  "scopeNotes": {
+    "fil": "Ang separation pay ay hindi naaangkop kapag tinanggal ka dahil sa just cause (kasalanan mo). Ang mga kontraktwal at probationary employees ay may iba't ibang karapatan. Ang mga benepisyo na mas mataas sa minimum ay maaaring itakda ng employment contract o collective bargaining agreement.",
+    "en": "Separation pay does not apply when dismissed for just cause (your fault). Contractual and probationary employees have different entitlements. Benefits higher than the minimum may be set by an employment contract or CBA."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "Labor Code, Articles 298–299 (dati 283–284) — Separation Pay",
+        "en": "Labor Code, Articles 298–299 (formerly 283–284) — Separation Pay"
+      },
+      "lawId": "labor-code",
+      "section": "Articles 298–299 (formerly 283–284)",
+      "sourceUrl": "https://www.dole.gov.ph/labor-code-of-the-philippines/",
+      "sourceName": "dole",
+      "quotedText": "In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher. In case of retrenchment to prevent losses... the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher."
+    }
+  ],
+  "relatedCardIds": ["labor-illegal-dismissal", "labor-13th-month-pay"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

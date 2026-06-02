@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-6727",
+  "title": "RA 6727 — Wage Rationalization Act (minimum wage)",
+  "section": "Sections 1–10",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1989/06/09/republic-act-no-6727/",
+  "sourceName": "official_gazette",
+  "modules": ["labor"],
+  "notes": "Minimum wage setting via Regional Tripartite Wages and Productivity Boards. Cards must link to current regional wage order from DOLE.",
+  "fetchedAt": "2026-05-30T01:26:51.599Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

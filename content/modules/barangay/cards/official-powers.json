@@ -1,0 +1,93 @@
+{
+  "id": "barangay-official-powers",
+  "module": "barangay",
+  "situationTags": [
+    {
+      "fil": "Nag-order ang opisyal ng barangay ng isang bagay na hindi ko alam kung legal",
+      "en": "A barangay official issued an order I'm not sure is legal"
+    },
+    {
+      "fil": "Gusto kong malaman kung ano talaga ang kapangyarihan ng barangay",
+      "en": "I want to know the actual powers of the barangay"
+    }
+  ],
+  "keywords": [
+    "barangay",
+    "punong barangay",
+    "kagawad",
+    "kapangyarihan",
+    "powers",
+    "RA 7160",
+    "Local Government Code",
+    "ordinance",
+    "resolution",
+    "barangay captain"
+  ],
+  "right": {
+    "fil": "Ang mga opisyal ng barangay ay may limitadong kapangyarihan na itinakda ng batas — sila ay may kakayahang mangasiwa ng barangay, ngunit hindi sila may kapangyarihang mang-aresto, maningil ng hindi awtorisadong bayad, o mag-utos ng mga bagay na lampas sa kanilang hurisdiksyon.",
+    "en": "Barangay officials have limited powers defined by law — they can govern the barangay, but they cannot arrest, collect unauthorized fees, or issue orders beyond their jurisdiction."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 7160 (Local Government Code), ang punong barangay ay may kapangyarihang: mag-enforce ng mga batas at ordinansa, mamuno sa barangay assembly, mangasiwa ng barangay funds, at mag-call ng barangay sessions. Ngunit sila ay HINDI: pulis, hukom, o may kapangyarihang mag-aresto nang walang warrant. Ang mga kagawad ay nagtatrabaho sa legislative body ng barangay at nagboboto sa mga ordinansa.",
+    "en": "Under RA 7160 (Local Government Code), the punong barangay has power to: enforce laws and ordinances, lead the barangay assembly, manage barangay funds, and call barangay sessions. But they are NOT: police, judges, or authorized to arrest without a warrant. Kagawads work in the barangay's legislative body and vote on ordinances."
+  },
+  "theyCannot": [
+    {
+      "fil": "Mag-aresto sayo nang walang warrant — sila ay hindi pulis.",
+      "en": "Arrest you without a warrant — they are not police officers."
+    },
+    {
+      "fil": "Maningil ng bayad na hindi nakalagay sa opisyal na barangay ordinance.",
+      "en": "Collect fees not authorized by an official barangay ordinance."
+    },
+    {
+      "fil": "Mag-utos ng demolisyon ng iyong property nang walang tamang legal na proseso.",
+      "en": "Order demolition of your property without proper legal process."
+    },
+    {
+      "fil": "Gumawa ng mga resolusyon o ordinansa na sumasalungat sa pambansang batas.",
+      "en": "Pass resolutions or ordinances that contradict national law."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng kopya ng barangay ordinance na pinapatakbo nila laban sa iyo.",
+      "en": "Request a copy of the barangay ordinance they are enforcing against you."
+    },
+    {
+      "fil": "I-challenge ang mga labis na barangay order sa lokal na korte o sa DILG.",
+      "en": "Challenge excessive barangay orders in local court or with DILG."
+    },
+    {
+      "fil": "Mag-attend ng barangay assembly at ibahagi ang iyong pananaw sa mga isyu.",
+      "en": "Attend the barangay assembly and voice your views on issues affecting you."
+    }
+  ],
+  "eli5": {
+    "fil": "Ang punong barangay ay parang pinuno ng inyong komunidad — siya ang namamahala sa barangay. Ngunit hindi siya pulis at hindi siya makakakulong sa iyo. Mayroon siyang mga limitasyon na itinakda ng batas.",
+    "en": "The punong barangay is like the head of your community — they run the barangay. But they are not police and cannot imprison you. They have limits set by law."
+  },
+  "scopeNotes": {
+    "fil": "Ang mga barangay ay may kapangyarihang mag-legislate sa loob ng kanilang lugar sa pamamagitan ng mga ordinansa — ngunit ang mga ordinansang ito ay hindi maaaring salungatin ang mga probinsyal, panglunsod, o pambansang batas (supremacy clause).",
+    "en": "Barangays can legislate within their territory through ordinances — but these ordinances cannot contradict provincial, city, or national laws (supremacy clause)."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7160 — Local Government Code, Section 389 — Punong Barangay",
+        "en": "RA 7160 — Local Government Code, Section 389 — Punong Barangay"
+      },
+      "lawId": "ra-7160-barangay",
+      "section": "Section 389",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1991/10/10/republic-act-no-7160/",
+      "sourceName": "official_gazette",
+      "quotedText": "The punong barangay, as the chief executive of the barangay government, shall exercise such powers and perform such duties and functions as provided in this Code and other laws... enforce all laws and ordinances applicable within the barangay... maintain public order in the barangay and, in pursuance thereof, assist the city or municipal mayor and the sanggunian members in the performance of their duties and functions."
+    }
+  ],
+  "relatedCardIds": ["barangay-katarungang-pambarangay", "barangay-clearance"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

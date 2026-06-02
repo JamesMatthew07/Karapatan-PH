@@ -1,0 +1,109 @@
+{
+  "id": "consumer-online-seller",
+  "module": "consumer",
+  "situationTags": [
+    { "fil": "Na-scam ako ng online seller", "en": "I was scammed by an online seller" },
+    {
+      "fil": "Ang binili ko online ay hindi dumating o iba sa larawan",
+      "en": "My online purchase didn't arrive or looks different from the photo"
+    }
+  ],
+  "keywords": [
+    "online seller",
+    "e-commerce",
+    "Shopee",
+    "Lazada",
+    "Facebook",
+    "scam",
+    "RA 8792",
+    "E-Commerce Act",
+    "DTI",
+    "online shopping",
+    "hindi dumating",
+    "peke",
+    "fake",
+    "misrepresentation"
+  ],
+  "right": {
+    "fil": "Ang mga online seller ay sumasaklaw din ng Consumer Act. Mayroon kang karapatang tumanggap ng produkto ayon sa paglalarawan, at magreklamo kung na-scam ka o hindi dumating ang iyong order.",
+    "en": "Online sellers are also covered by the Consumer Act. You have the right to receive products as described, and to file a complaint if you were scammed or your order didn't arrive."
+  },
+  "whatThisMeans": {
+    "fil": "Ang RA 8792 (E-Commerce Act) at RA 7394 (Consumer Act) ay naaangkop sa mga online na transaksyon. Ang mga online seller ay may obligasyong: magbigay ng totoong paglalarawan ng produkto, i-deliver ang produkto sa usapang panahon, at tugunan ang mga reklamo. Ang mga platform tulad ng Shopee at Lazada ay may sariling dispute resolution system na maaari mong gamitin.",
+    "en": "RA 8792 (E-Commerce Act) and RA 7394 (Consumer Act) apply to online transactions. Online sellers are obligated to: provide accurate product descriptions, deliver within the agreed timeframe, and address complaints. Platforms like Shopee and Lazada have their own dispute resolution systems you can use."
+  },
+  "theyCannot": [
+    {
+      "fil": "Magbenta ng produkto na may maling paglalarawan o larawan.",
+      "en": "Sell products with false descriptions or photos."
+    },
+    {
+      "fil": "Kumuha ng bayad at hindi i-deliver ang produkto.",
+      "en": "Accept payment and not deliver the product."
+    },
+    {
+      "fil": "Tanggihan ang refund para sa produkto na hindi dumating o mali ang natanggap.",
+      "en": "Refuse a refund for items that didn't arrive or arrived incorrectly."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Gamitin ang dispute resolution ng platform (Shopee, Lazada, etc.) bago mag-file ng reklamo sa labas.",
+      "en": "Use the platform's dispute resolution (Shopee, Lazada, etc.) before filing an outside complaint."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DTI laban sa online seller — maaari ring sa pamamagitan ng dti.gov.ph.",
+      "en": "File a complaint with DTI against the online seller — also available at dti.gov.ph."
+    },
+    {
+      "fil": "Mag-file ng estafa case sa PNP o NBI Cybercrime Division kung tiyak na scam.",
+      "en": "File an estafa case with the PNP or NBI Cybercrime Division if it's clearly a scam."
+    },
+    {
+      "fil": "I-screenshot ang lahat ng komunikasyon, listing, at resibo bago mag-report.",
+      "en": "Screenshot all communications, listings, and receipts before reporting."
+    }
+  ],
+  "eli5": {
+    "fil": "Kung bumili ka online at hindi dumating ang order mo o iba ang natanggap, may karapatan kang ibalik ito o makuha ang iyong pera. Maaari kang magreklamo sa platform o sa DTI.",
+    "en": "If you bought something online and it didn't arrive or was different from what was shown, you have the right to return it or get your money back. You can complain to the platform or to DTI."
+  },
+  "scopeNotes": {
+    "fil": "Ang mga online na transaksyon sa social media (Facebook, Instagram) ay mas mahirap protektahan kaysa sa mga opisyal na platform. Mas ligtas ang pagbili sa mga platform na may buyer protection. Ang NBI Cybercrime Division ay may hurisdiksyon sa mga online scam.",
+    "en": "Online transactions on social media (Facebook, Instagram) are harder to protect than those on official platforms. Buying on platforms with buyer protection is safer. The NBI Cybercrime Division has jurisdiction over online scams."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 8792 — Electronic Commerce Act, Sections 30–34",
+        "en": "RA 8792 — Electronic Commerce Act, Sections 30–34"
+      },
+      "lawId": "ra-8792",
+      "section": "Sections 30–34",
+      "sourceUrl": "https://www.officialgazette.gov.ph/2000/06/14/republic-act-no-8792/",
+      "sourceName": "official_gazette",
+      "quotedText": "Electronic transactions shall have the legal effect, validity or enforceability as any other document or legal writing... The rights and obligations of online merchants are governed by existing consumer protection laws of the Philippines."
+    },
+    {
+      "label": {
+        "fil": "RA 7394 — Consumer Act (naaangkop din sa online transactions)",
+        "en": "RA 7394 — Consumer Act (also applies to online transactions)"
+      },
+      "lawId": "ra-7394",
+      "section": "General provisions",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/13/republic-act-no-7394/",
+      "sourceName": "official_gazette",
+      "quotedText": "It is the policy of the State to protect the interests of the consumer, promote his general welfare and to establish standards of conduct for business and industry."
+    }
+  ],
+  "relatedCardIds": [
+    "consumer-no-return-no-exchange",
+    "consumer-defective-product",
+    "consumer-dti-complaint"
+  ],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "labor-minimum-wage",
+  "module": "labor",
+  "situationTags": [
+    {
+      "fil": "Hindi ako binabayaran ng minimum wage",
+      "en": "I am not being paid the minimum wage"
+    },
+    {
+      "fil": "Gusto kong malaman ang minimum wage sa aking rehiyon",
+      "en": "I want to know the minimum wage in my region"
+    }
+  ],
+  "keywords": [
+    "minimum wage",
+    "pinakamababang sahod",
+    "RA 6727",
+    "RTWPB",
+    "regional",
+    "NCR",
+    "Luzon",
+    "Visayas",
+    "Mindanao",
+    "DOLE",
+    "salary",
+    "sahod"
+  ],
+  "right": {
+    "fil": "Ang bawat empleyado sa private sector ay may karapatang makatanggap ng kahit minimum na sahod na itinakda ng Regional Tripartite Wages and Productivity Board (RTWPB) para sa kanilang rehiyon.",
+    "en": "Every private sector employee has the right to receive at least the minimum wage set by the Regional Tripartite Wages and Productivity Board (RTWPB) for their region."
+  },
+  "whatThisMeans": {
+    "fil": "Ang minimum wage ay nagbabago ayon sa rehiyon — ang NCR ay may mas mataas kaysa sa ibang probinsya. Ang RTWPB ng bawat rehiyon ang nagtatakda nito. Hindi maaaring bayaran ang empleyado nang mas mababa sa minimum wage — kahit anong kasunduan ang gawin ng employer at empleyado. Para sa pinakabagong rate sa iyong rehiyon, bisitahin ang DOLE o NWPC website.",
+    "en": "Minimum wage varies by region — NCR has higher rates than provinces. Each region's RTWPB sets the rate. An employee cannot be paid below the minimum wage — regardless of any agreement between employer and employee. For the latest rate in your region, visit the DOLE or NWPC website."
+  },
+  "theyCannot": [
+    {
+      "fil": "Bayaran ka nang mas mababa sa minimum wage ng iyong rehiyon.",
+      "en": "Pay you below your region's minimum wage."
+    },
+    {
+      "fil": "Gawing 'allowance' o 'tip' ang bahagi ng minimum wage para mabawasan ang base pay.",
+      "en": "Count allowances or tips as part of the minimum wage to reduce your base pay."
+    },
+    {
+      "fil": "Gumawa ng kasunduan na mas mababa sa minimum wage — ang ganitong kasunduan ay walang bisa.",
+      "en": "Make an agreement for wages below the minimum — such agreements are void."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Tingnan ang pinakabagong minimum wage order para sa iyong rehiyon sa NWPC website: nwpc.dole.gov.ph",
+      "en": "Check the latest minimum wage order for your region at the NWPC website: nwpc.dole.gov.ph"
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DOLE Regional Office kung hindi ka binabayaran ng minimum.",
+      "en": "File a complaint with the DOLE Regional Office if you are not paid the minimum."
+    },
+    {
+      "fil": "Humingi ng tulong sa DOLE hotline: 1349.",
+      "en": "Seek help from the DOLE hotline: 1349."
+    }
+  ],
+  "eli5": {
+    "fil": "May pinakamababang sahod na dapat ibayad sa iyo bawat araw. Ito ay nag-iiba depende sa saan ka nakatira. Kung babayaran ka ng mas mababa niyan, may karapatan kang magreklamo sa DOLE.",
+    "en": "There is a minimum daily pay that you must receive. This varies depending on where you live. If paid less than that, you have the right to file a complaint with DOLE."
+  },
+  "scopeNotes": {
+    "fil": "MAHALAGA: Ang minimum wage ay regular na binabago ng RTWPB. Ang rate na ito ay maaaring lumuma. Palaging i-verify ang pinakabagong rate sa DOLE o NWPC bago gumawa ng aksyon. Ang mga kasambahay ay may hiwalay na minimum wage sa ilalim ng Kasambahay Law.",
+    "en": "IMPORTANT: Minimum wage is regularly updated by the RTWPB. Any specific rate here may be outdated. Always verify the current rate with DOLE or NWPC before taking action. Household workers have a separate minimum wage under the Kasambahay Law."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 6727 — Wage Rationalization Act",
+        "en": "RA 6727 — Wage Rationalization Act"
+      },
+      "lawId": "ra-6727",
+      "section": "Section 1",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1989/06/09/republic-act-no-6727/",
+      "sourceName": "official_gazette",
+      "quotedText": "It is hereby declared the policy of the State to rationalize the fixing of minimum wages and to promote productivity-improvement and gain-sharing measures to ensure a decent standard of living for the workers and their families; to guarantee the rights of labor to its just share in the fruits of production; to enhance employment generation in the countryside through industry dispersal; and to allow business and industry reasonable returns on investment, expansion and growth."
+    }
+  ],
+  "relatedCardIds": ["labor-13th-month-pay", "labor-illegal-dismissal"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [
+    {
+      "date": "2026-05-30",
+      "note": "Initial draft. Awaiting Layer-3 legal review. Note: minimum wage figures not hardcoded due to regional variation and frequent updates."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "labor-13th-month-pay",
+  "module": "labor",
+  "situationTags": [
+    { "fil": "Hindi binibigay ang 13th month pay ko", "en": "I'm not receiving my 13th month pay" },
+    {
+      "fil": "Tinanong ko ang employer tungkol sa 13th month",
+      "en": "Asked employer about 13th month pay"
+    }
+  ],
+  "keywords": [
+    "13th month",
+    "treceavo",
+    "bonus",
+    "PD 851",
+    "rank and file",
+    "december",
+    "benepisyo",
+    "sahod",
+    "sweldo",
+    "employer",
+    "manggagawa"
+  ],
+  "right": {
+    "fil": "Ang bawat rank-and-file na empleyado na nagtatrabaho ng higit sa isang buwan ay may karapatang makatanggap ng 13th month pay bawat taon — hindi ito bonus, ito ay isang mandatory na batas.",
+    "en": "Every rank-and-file employee who has worked for at least one month is entitled to 13th month pay annually — this is not a bonus, it is mandatory under law."
+  },
+  "whatThisMeans": {
+    "fil": "Sa ilalim ng PD 851, ang mga employer ay kinakailangang magbigay ng 13th month pay sa lahat ng rank-and-file na empleyado bago mag-Disyembre 24 ng bawat taon. Ang halaga ay katumbas ng kahit isang buwan na basic salary (o 1/12 ng total basic salary para sa buong taon). Hindi ito maaaring palitan ng ibang benepisyo.",
+    "en": "Under PD 851, employers are required to give 13th month pay to all rank-and-file employees before December 24 each year. The amount is equivalent to at least one month's basic salary (or 1/12 of total basic pay for the year). It cannot be substituted with other benefits."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanggalin ang 13th month pay sa lahat ng rank-and-file na empleyado.",
+      "en": "Withhold 13th month pay from any rank-and-file employee."
+    },
+    {
+      "fil": "Palitan ng ibang benepisyo nang walang pahintulot ng DOLE.",
+      "en": "Replace it with other benefits without DOLE approval."
+    },
+    {
+      "fil": "Ibigay ito pagkatapos ng Disyembre 24 nang walang maayos na dahilan.",
+      "en": "Give it after December 24 without valid reason."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng payroll records para i-compute ang tamang halaga.",
+      "en": "Request payroll records to compute the correct amount."
+    },
+    {
+      "fil": "Mag-file ng reklamo sa DOLE kung hindi ibinibigay ng employer.",
+      "en": "File a complaint with DOLE if your employer withholds it."
+    },
+    { "fil": "Makipag-ugnayan sa DOLE hotline: 1349.", "en": "Contact the DOLE hotline: 1349." }
+  ],
+  "eli5": {
+    "fil": "Kung ikaw ay empleyado, dapat kang makatanggap ng extra na isang buwan na sahod bago mag-Pasko. Hindi ito regalo — ito ay batas. Kung hindi mo ito natatanggap, maaari kang magreklamo sa DOLE.",
+    "en": "If you're an employee, you must receive one extra month's pay before Christmas. This isn't a gift — it's the law. If you don't receive it, you can complain to DOLE."
+  },
+  "scopeNotes": {
+    "fil": "Naaangkop sa lahat ng rank-and-file na empleyado sa pribado at ilang government-owned corporations. Hindi naaangkop sa mga managerial employees, kasambahay (covered ng Kasambahay Law), at ilang iba pang kategorya. Ang computation ay batay sa basic salary lamang, hindi kasama ang OT pay, holiday pay, at iba pa.",
+    "en": "Applies to all rank-and-file employees in the private sector and some GOCCs. Does not apply to managerial employees, household helpers (covered by Kasambahay Law), and some other categories. Computation is based on basic salary only — overtime pay, holiday pay, etc. are excluded."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "PD 851 — 13th Month Pay Decree",
+        "en": "PD 851 — 13th Month Pay Decree"
+      },
+      "lawId": "pd-851",
+      "section": "Section 1",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1975/12/16/presidential-decree-no-851/",
+      "sourceName": "official_gazette",
+      "quotedText": "All employers are hereby required to pay all their rank-and-file employees a thirteenth-month pay not later than December 24 of every year."
+    }
+  ],
+  "relatedCardIds": [],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [
+    {
+      "date": "2026-05-30",
+      "note": "Initial sourcing + bilingual draft (Layer 1 + Layer 2). Awaiting Layer-3 legal review before publish."
+    }
+  ]
+}

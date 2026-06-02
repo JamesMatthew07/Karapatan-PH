@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-7877",
+  "title": "RA 7877 — Anti-Sexual Harassment Act of 1995",
+  "section": "Sections 1–6",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1995/02/14/republic-act-no-7877/",
+  "sourceName": "official_gazette",
+  "modules": ["labor"],
+  "notes": "Sexual harassment in work/training/education; employer duties; complaint process.",
+  "fetchedAt": "2026-05-30T01:26:49.093Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

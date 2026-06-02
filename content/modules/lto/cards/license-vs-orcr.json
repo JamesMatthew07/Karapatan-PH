@@ -1,0 +1,98 @@
+{
+  "id": "lto-license-vs-orcr",
+  "module": "lto",
+  "situationTags": [
+    { "fil": "Kinuha ng LTO ang aking lisensya", "en": "LTO took my driver's license" },
+    { "fil": "Gusto nilang kunin ang OR/CR ko", "en": "They want to take my OR/CR" },
+    {
+      "fil": "Hindi ko alam kung ano ang pwedeng kunin ng enforcer",
+      "en": "I don't know what an enforcer can legally take"
+    }
+  ],
+  "keywords": [
+    "lisensya",
+    "license",
+    "OR",
+    "CR",
+    "official receipt",
+    "certificate of registration",
+    "confiscate",
+    "kumpiska",
+    "LTO",
+    "MMDA",
+    "apprehension",
+    "TVR",
+    "traffic violation receipt"
+  ],
+  "right": {
+    "fil": "Ang traffic enforcer ay maaari lamang kunin ang iyong driver's license — hindi ang OR/CR ng iyong sasakyan. Ang OR/CR ay dapat manatili sa iyo o sa iyong sasakyan.",
+    "en": "A traffic enforcer may only confiscate your driver's license — not your vehicle's OR/CR. The OR/CR must remain with you or your vehicle."
+  },
+  "whatThisMeans": {
+    "fil": "Sa ilalim ng RA 4136 (Land Transportation and Traffic Code), ang lisensya ng driver ay maaaring kunin bilang parusa sa traffic violation. Ngunit ang Official Receipt (OR) at Certificate of Registration (CR) ay dokumento ng pagmamay-ari ng sasakyan — hindi maaaring isamantala para mapigilan kang gamitin ang iyong sasakyan nang walang valid na dahilan. Ang pagkuha ng OR/CR ay maaaring maging ebidensya ng extortion.",
+    "en": "Under RA 4136 (Land Transportation and Traffic Code), a driver's license may be confiscated for a traffic violation. But the Official Receipt (OR) and Certificate of Registration (CR) are vehicle ownership documents — they cannot be taken to prevent you from using your vehicle without a valid legal basis. Taking the OR/CR may constitute evidence of extortion."
+  },
+  "theyCannot": [
+    {
+      "fil": "Kunin ang OR/CR ng iyong sasakyan bilang bahagi ng normal na apprehension.",
+      "en": "Take your vehicle's OR/CR as part of a standard traffic apprehension."
+    },
+    {
+      "fil": "Pigilan kang patakbuhin ang iyong sasakyan sa pamamagitan ng pagkuha ng OR/CR.",
+      "en": "Prevent you from driving your vehicle by taking the OR/CR."
+    },
+    {
+      "fil": "Kunin ang iyong lisensya nang walang ibinigay na Traffic Violation Receipt (TVR).",
+      "en": "Take your license without issuing a Traffic Violation Receipt (TVR)."
+    },
+    {
+      "fil": "Humiling ng bayad sa lugar (kotong) para ibalik ang iyong lisensya.",
+      "en": "Demand on-the-spot payment (bribe) in exchange for returning your license."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Tanungin: 'Bibigyan ninyo ako ng TVR? Maaari ko bang makita ang inyong ID?'",
+      "en": "Ask: 'Will you issue me a TVR? May I see your ID?'"
+    },
+    {
+      "fil": "Tumanggi na ibigay ang OR/CR at sabihing ito ay hindi maaaring kunin sa normal na apprehension.",
+      "en": "Refuse to hand over your OR/CR and state it cannot be taken in a standard apprehension."
+    },
+    {
+      "fil": "I-contest ang violation sa LTO adjudication office — huwag magbayad ng kotong.",
+      "en": "Contest the violation at the LTO adjudication office — do not pay a bribe."
+    },
+    {
+      "fil": "Mag-report ng kotong sa LTO hotline o DILG complaint system.",
+      "en": "Report bribery to the LTO hotline or DILG complaint system."
+    }
+  ],
+  "eli5": {
+    "fil": "Pag-huli ka sa traffic, puwedeng kunin nila ang iyong driving license — ngunit hindi ang OR/CR ng kotse. Ang OR/CR ay papel ng pagmamay-ari ng kotse, hindi dapat kinukuha. Kung ito ang kukunin nila, maaaring ito ay kotong na.",
+    "en": "When caught for a traffic violation, they can take your driving license — but not the car's OR/CR. The OR/CR is the car's ownership document, and shouldn't be taken. If they try to take it, it may be a setup for a bribe."
+  },
+  "scopeNotes": {
+    "fil": "Ang LTO, MMDA, at lokal na traffic enforcers ay may iba't ibang jurisdiksyon. Ang TVR ay dapat na may detalye ng violation, pangalan ng opisyal, at petsa ng hearing. Maingat na basahin ang TVR bago pumirma.",
+    "en": "LTO, MMDA, and local traffic enforcers have different jurisdictions. The TVR must include details of the violation, the officer's name, and the hearing date. Read the TVR carefully before signing."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 4136 — Land Transportation and Traffic Code",
+        "en": "RA 4136 — Land Transportation and Traffic Code"
+      },
+      "lawId": "ra-4136",
+      "section": "Sections 29, 56–64",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1964/06/20/republic-act-no-4136/",
+      "sourceName": "official_gazette",
+      "quotedText": "The driver's license shall be surrendered to the apprehending officer... A Traffic Violation Receipt (TVR) shall be issued to the driver in lieu of his confiscated license, which receipt shall serve as a temporary operator's permit for a period not exceeding seventy-two hours."
+    }
+  ],
+  "relatedCardIds": ["lto-valid-apprehension", "lto-contest-ticket", "lto-kotong"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

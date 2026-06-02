@@ -1,0 +1,99 @@
+{
+  "id": "lto-valid-apprehension",
+  "module": "lto",
+  "situationTags": [
+    {
+      "fil": "Hindi ko alam kung valid ang traffic ticket na natanggap ko",
+      "en": "I'm not sure if the traffic ticket I received is valid"
+    },
+    {
+      "fil": "Nabigyan ako ng TVR at gusto ko malaman ang aking karapatan",
+      "en": "I received a TVR and want to know my rights"
+    }
+  ],
+  "keywords": [
+    "TVR",
+    "traffic violation receipt",
+    "valid",
+    "apprehension",
+    "ticket",
+    "LTO",
+    "MMDA",
+    "enforcer",
+    "violation",
+    "bayad",
+    "fine",
+    "saksak"
+  ],
+  "right": {
+    "fil": "Para maging valid ang isang traffic apprehension, kailangan nito ng tamang proseso — kasama ang pagbibigay ng TVR, pagpapakita ng ID ng opisyal, at ang violation ay tunay na nangyari.",
+    "en": "For a traffic apprehension to be valid, it must follow proper procedure — including issuing a TVR, the officer showing their ID, and the violation actually occurring."
+  },
+  "whatThisMeans": {
+    "fil": "Ang isang valid na traffic apprehension ay dapat may: (1) TVR na naglalaman ng pangalan ng opisyal, numero ng lisensya, detalye ng violation, at petsa ng hearing; (2) opisyal na nagpapakita ng kanyang ID kapag hiniling; (3) tunay at makikitang violation — hindi hula o pagmamanipula. Ang mga violation na walang malinaw na ebidensya o hindi sumusunod sa proseso ay maaaring i-contest.",
+    "en": "A valid traffic apprehension must include: (1) a TVR containing the officer's name, badge number, details of the violation, and hearing date; (2) the officer showing their ID upon request; (3) an actual, observable violation — not speculation or manipulation. Violations without clear evidence or that fail to follow proper procedure may be contested."
+  },
+  "theyCannot": [
+    {
+      "fil": "Mag-apprehend nang walang ibinibigay na TVR.",
+      "en": "Apprehend you without issuing a TVR."
+    },
+    {
+      "fil": "Tumanggi na ipakita ang kanilang ID o badge kapag hiniling.",
+      "en": "Refuse to show their ID or badge when asked."
+    },
+    {
+      "fil": "Humiling na magbayad ka agad sa lugar — ang lahat ng fines ay binabayaran sa LTO o authorized payment centers.",
+      "en": "Demand immediate on-the-spot payment — all fines are paid at LTO or authorized payment centers."
+    },
+    {
+      "fil": "Mag-apprehend para sa violation na hindi mo talaga ginawa.",
+      "en": "Apprehend you for a violation you did not actually commit."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Humingi ng TVR at suriin kung tama ang lahat ng detalye.",
+      "en": "Ask for a TVR and verify all details are correct."
+    },
+    {
+      "fil": "Tanungin ang pangalan at badge number ng opisyal.",
+      "en": "Ask for the officer's name and badge number."
+    },
+    {
+      "fil": "I-contest ang apprehension sa LTO adjudication office sa loob ng itinakdang panahon.",
+      "en": "Contest the apprehension at the LTO adjudication office within the prescribed period."
+    },
+    {
+      "fil": "Kumuha ng litrato ng TVR, sasakyan, at lugar bilang ebidensya.",
+      "en": "Take photos of the TVR, vehicle, and location as evidence."
+    }
+  ],
+  "eli5": {
+    "fil": "Kapag huli ka sa trapiko, dapat bigyan ka ng opisyal na papel (TVR) na nagsasabi kung ano ang iyong violation. Kung walang papel, hindi ito tama. Hindi rin maaaring magbayad ka agad sa enforcer — pumunta ka sa LTO para bayaran.",
+    "en": "When caught for a traffic violation, the officer must give you a paper (TVR) explaining your violation. No paper means something's wrong. You also cannot pay the officer directly — go to LTO to pay."
+  },
+  "scopeNotes": {
+    "fil": "Ang mga detalye ng valid na TVR at proseso ng pagbabayad ay maaaring magbago. Palaging i-check ang pinakabagong LTO guidelines. Ang MMDA at lokal na LGU enforcers ay may kani-kanilang proseso.",
+    "en": "Specific TVR requirements and payment procedures may change. Always check the latest LTO guidelines. MMDA and local LGU enforcers have their own procedures."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 4136 — Land Transportation and Traffic Code, Sections 56–64",
+        "en": "RA 4136 — Land Transportation and Traffic Code, Sections 56–64"
+      },
+      "lawId": "ra-4136",
+      "section": "Sections 56–64",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1964/06/20/republic-act-no-4136/",
+      "sourceName": "official_gazette",
+      "quotedText": "Any peace officer or a duly licensed and registered motor vehicle inspector may, without a warrant, arrest any person driving a motor vehicle in violation of any provisions of this Act or regulations promulgated pursuant thereto."
+    }
+  ],
+  "relatedCardIds": ["lto-license-vs-orcr", "lto-contest-ticket", "lto-kotong"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

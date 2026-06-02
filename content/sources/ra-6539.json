@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-6539",
+  "title": "RA 6539 — Anti-Carnapping Act (as amended by RA 10883)",
+  "section": "Sections 1–5",
+  "sourceUrl": "https://www.officialgazette.gov.ph/2016/07/17/republic-act-no-10883/",
+  "sourceName": "official_gazette",
+  "modules": ["lto"],
+  "notes": "OR/CR vs license confiscation distinction. Vehicle registration requirements.",
+  "fetchedAt": "2026-05-30T01:26:45.184Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

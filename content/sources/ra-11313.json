@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-11313",
+  "title": "RA 11313 — Safe Spaces Act (Bawal Bastos Law)",
+  "section": "Sections 3–11",
+  "sourceUrl": "https://www.officialgazette.gov.ph/2019/04/17/republic-act-no-11313/",
+  "sourceName": "official_gazette",
+  "modules": ["labor", "police"],
+  "notes": "Gender-based harassment in public, online, and workplace settings. Catcalling, wolf-whistling. Covers all genders.",
+  "fetchedAt": "2026-05-30T01:26:50.340Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

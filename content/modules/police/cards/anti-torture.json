@@ -1,0 +1,99 @@
+{
+  "id": "police-anti-torture",
+  "module": "police",
+  "situationTags": [
+    {
+      "fil": "Pinahirapan ako ng pulis habang nakadetine",
+      "en": "I was tortured or mistreated by police while detained"
+    },
+    {
+      "fil": "Binigyan ako ng pisikal na pinsala sa presinto",
+      "en": "I was physically harmed at the police station"
+    }
+  ],
+  "keywords": [
+    "torture",
+    "pahirap",
+    "mithril",
+    "RA 9745",
+    "anti-torture",
+    "abuse",
+    "physical",
+    "psychological",
+    "detention",
+    "detainee",
+    "human rights",
+    "CHR"
+  ],
+  "right": {
+    "fil": "Ang pagpapahirap — pisikal man o sikolohikal — ay ipinagbabawal ng batas kahit sa mga inaresto o nakadetine. Ito ay isang krimen.",
+    "en": "Torture — whether physical or psychological — is prohibited by law even against persons arrested or detained. It is a criminal offense."
+  },
+  "whatThisMeans": {
+    "fil": "Ayon sa RA 9745 o Anti-Torture Act of 2009, ipinagbabawal ang lahat ng anyo ng pahirap — kasama ang pisikal na kalupitan, pagbabanta, pananakot, at sikolohikal na pag-atake. Hindi maaaring gamitin ng estado ang pahirap para makakuha ng impormasyon o pagtatapat. Ang sinumang opisyal na gumagawa nito ay maaaring ikulong at itanggal sa pwesto.",
+    "en": "Under RA 9745 (Anti-Torture Act of 2009), all forms of torture are prohibited — including physical cruelty, threats, intimidation, and psychological attacks. The state cannot use torture to obtain information or confessions. Any official who commits torture may be imprisoned and removed from office."
+  },
+  "theyCannot": [
+    {
+      "fil": "Paluin, patayin ang sigarilyo sa iyong katawan, o gamitin ang anumang instrumento para saktan ka.",
+      "en": "Beat you, put out cigarettes on your body, or use any instrument to cause you pain."
+    },
+    {
+      "fil": "Pananakutin ng pagpatay, pagtortura ng pamilya mo, o ibang banta.",
+      "en": "Threaten to kill you, torture your family, or make other threats."
+    },
+    {
+      "fil": "Pigilan kang matulog, kumain, o pumunta sa CR bilang paraan ng pagpapahirap.",
+      "en": "Deprive you of sleep, food, or bathroom access as a form of pressure."
+    },
+    {
+      "fil": "Gamitin ang anumang pagtatapat na nakuha sa pamamagitan ng pahirap bilang ebidensya.",
+      "en": "Use any confession obtained through torture as evidence against you."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Mag-file ng reklamo sa Commission on Human Rights (CHR) — 09178-66-2487.",
+      "en": "File a complaint with the Commission on Human Rights (CHR) — 09178-66-2487."
+    },
+    {
+      "fil": "Mag-file ng kaso sa Ombudsman laban sa mga opisyal na nag-torture.",
+      "en": "File a case with the Ombudsman against the officials who committed torture."
+    },
+    {
+      "fil": "Humingi ng medikal na pagsusuri agad para ma-document ang mga pinsala.",
+      "en": "Request a medical examination immediately to document your injuries."
+    },
+    {
+      "fil": "Humingi ng tulong sa iyong abogado o sa FLAG (Free Legal Assistance Group).",
+      "en": "Seek assistance from your lawyer or FLAG (Free Legal Assistance Group)."
+    }
+  ],
+  "eli5": {
+    "fil": "Kahit inaresto ka, hindi puwedeng saktan ka ng pulis para masabi mo ang gusto nilang marinig. Ito ay labag sa batas. Kung ginawa nila ito, may karapatan kang magreklamo.",
+    "en": "Even if you were arrested, police cannot hurt you to make you say what they want. This is against the law. If they did it, you have the right to file a complaint."
+  },
+  "scopeNotes": {
+    "fil": "Naaangkop sa lahat ng nasa custody ng estado — kasama ang PNP, NBI, AFP, at iba pang ahensiya. Ang impunity ay hindi isang depensa. Ang utos ng superior ay hindi rin isang depensa sa ilalim ng RA 9745.",
+    "en": "Applies to all persons in state custody — including PNP, NBI, AFP, and other agencies. Impunity is not a defense. 'Superior orders' is also not a defense under RA 9745."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 9745 — Anti-Torture Act of 2009, Section 4",
+        "en": "RA 9745 — Anti-Torture Act of 2009, Section 4"
+      },
+      "lawId": "ra-9745",
+      "section": "Section 4",
+      "sourceUrl": "https://www.officialgazette.gov.ph/2009/11/10/republic-act-no-9745/",
+      "sourceName": "official_gazette",
+      "quotedText": "The State shall not inflict torture or other cruel, inhumane or degrading treatment or punishment on any person, including those deprived of liberty. No exceptional circumstances whatsoever, whether a state of war or a threat of war, internal political instability or any other public emergency, may be invoked as a justification of torture or other cruel, inhumane or degrading treatment or punishment."
+    }
+  ],
+  "relatedCardIds": ["police-right-to-remain-silent", "police-right-to-counsel"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [{ "date": "2026-05-30", "note": "Initial draft. Awaiting Layer-3 legal review." }]
+}

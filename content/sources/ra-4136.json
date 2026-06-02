@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-4136",
+  "title": "RA 4136 — Land Transportation and Traffic Code",
+  "section": "Sections 21–30, 56–68",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1964/06/20/republic-act-no-4136/",
+  "sourceName": "official_gazette",
+  "modules": ["lto"],
+  "notes": "Driver's license requirements, apprehension rules, confiscation scope (license vs OR/CR).",
+  "fetchedAt": "2026-05-30T01:26:42.609Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}

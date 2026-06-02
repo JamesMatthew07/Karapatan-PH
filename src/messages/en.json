@@ -1,0 +1,72 @@
+{
+  "app": {
+    "name": "KarapatanPH",
+    "tagline": "Know your rights.",
+    "description": "Free guide to Filipino legal rights — no law degree required."
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "emergency": "Emergency",
+    "about": "About",
+    "modules": "Topics"
+  },
+  "home": {
+    "prompt": "What happened to you?",
+    "browseByTopic": "Browse by topic",
+    "commonSituations": "Common situations"
+  },
+  "card": {
+    "theRight": "The Right",
+    "whatThisMeans": "What This Means",
+    "theyCannot": "What They CANNOT Do",
+    "youCan": "What YOU Can Do",
+    "legalBasis": "Legal Basis",
+    "lastVerified": "Last verified",
+    "flagAsIncorrect": "Flag as incorrect",
+    "viewSource": "View law",
+    "relatedRights": "Related Rights",
+    "eli5Toggle": "Simpler explanation",
+    "scopeNotes": "Scope & Limitations",
+    "draftWarning": "DRAFT — Pending legal review. Do not rely on this as official information.",
+    "verifiedBadge": "Verified by a licensed lawyer"
+  },
+  "search": {
+    "placeholder": "Search your situation or right...",
+    "noResults": "No results found. Try different words.",
+    "suggestions": "Suggestions"
+  },
+  "disclaimer": {
+    "short": "For informational purposes only. Not legal advice.",
+    "full": "KarapatanPH is for informational purposes only and does not constitute legal advice. For your specific situation, consult a licensed lawyer. Content is based on Philippine laws and is regularly verified.",
+    "consultLawyer": "For your specific situation, consult a licensed lawyer."
+  },
+  "modules": {
+    "police": "Police Encounters",
+    "lto": "LTO / MMDA / Traffic",
+    "labor": "Labor & Employment",
+    "barangay": "Barangay & Local Gov't",
+    "consumer": "Consumer Rights"
+  },
+  "legal": {
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contentPolicy": "Content Policy",
+    "complaints": "Complaint Channels",
+    "howVerified": "How Content is Verified"
+  },
+  "lang": {
+    "fil": "Filipino",
+    "en": "English",
+    "toggle": "Change language"
+  },
+  "verification": {
+    "draft": "Draft",
+    "plain_review": "Under Review",
+    "legal_review": "Awaiting Legal Review",
+    "verified": "Verified",
+    "flagged": "Flagged for Review",
+    "deprecated": "No Longer in Effect"
+  }
+}

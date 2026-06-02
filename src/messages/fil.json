@@ -1,0 +1,72 @@
+{
+  "app": {
+    "name": "KarapatanPH",
+    "tagline": "Alamin ang iyong karapatan.",
+    "description": "Libreng gabay sa mga karapatang Pilipino — walang abogado na kailangan."
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Hanapin",
+    "emergency": "Emergency",
+    "about": "Tungkol sa Amin",
+    "modules": "Mga Paksa"
+  },
+  "home": {
+    "prompt": "Ano ang nangyari sa'yo?",
+    "browseByTopic": "Mag-browse ayon sa paksa",
+    "commonSituations": "Mga karaniwang sitwasyon"
+  },
+  "card": {
+    "theRight": "Ang Karapatan",
+    "whatThisMeans": "Ibig Sabihin Nito",
+    "theyCannot": "Hindi Nila Puwedeng Gawin",
+    "youCan": "Puwede Mong Gawin",
+    "legalBasis": "Batayan sa Batas",
+    "lastVerified": "Huling na-verify",
+    "flagAsIncorrect": "I-flag kung mali",
+    "viewSource": "Tingnan ang batas",
+    "relatedRights": "Kaugnay na Karapatan",
+    "eli5Toggle": "Simpleng paliwanag",
+    "scopeNotes": "Mga Limitasyon",
+    "draftWarning": "DRAFT — Naghihintay pa ng legal na pagsusuri. Huwag gamitin bilang opisyal na impormasyon.",
+    "verifiedBadge": "Na-verify ng lisensyadong abogado"
+  },
+  "search": {
+    "placeholder": "Hanapin ang iyong sitwasyon o karapatan...",
+    "noResults": "Walang nahanap. Subukan ang ibang salita.",
+    "suggestions": "Mga mungkahi"
+  },
+  "disclaimer": {
+    "short": "Para sa impormasyon lamang. Hindi legal na payo.",
+    "full": "Ang KarapatanPH ay para sa impormasyon lamang at hindi legal na payo. Para sa iyong specific na sitwasyon, kumonsulta sa isang lisensyadong abogado. Ang mga nilalaman ay batay sa mga batas ng Pilipinas at regular na vina-verify.",
+    "consultLawyer": "Para sa iyong specific na sitwasyon, kumonsulta sa isang abogado."
+  },
+  "modules": {
+    "police": "Pakikitungo sa Pulis",
+    "lto": "LTO / MMDA / Trapiko",
+    "labor": "Trabaho at Empleyo",
+    "barangay": "Barangay at LGU",
+    "consumer": "Karapatan ng Konsyumer"
+  },
+  "legal": {
+    "about": "Tungkol sa Amin",
+    "privacy": "Patakaran sa Privacy",
+    "terms": "Mga Tuntunin ng Paggamit",
+    "contentPolicy": "Patakaran sa Nilalaman",
+    "complaints": "Mga Ahensiya ng Reklamo",
+    "howVerified": "Paano Na-verify ang Nilalaman"
+  },
+  "lang": {
+    "fil": "Filipino",
+    "en": "English",
+    "toggle": "Baguhin ang wika"
+  },
+  "verification": {
+    "draft": "Draft",
+    "plain_review": "Isinusuri",
+    "legal_review": "Naghihintay ng Legal na Pagsusuri",
+    "verified": "Na-verify",
+    "flagged": "Naka-flag para sa Pagsusuri",
+    "deprecated": "Hindi na Epektibo"
+  }
+}

@@ -1,0 +1,71 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+env:
+  # Prevent unreviewed cards shipping on main; preview deploys use KARAPATAN_PREVIEW=true
+  KARAPATAN_PREVIEW: "false"
+
+jobs:
+  ci:
+    name: Typecheck · Lint · Validate Content · Test · Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Validate content
+        run: pnpm validate-content
+
+      - name: Unit & component tests
+        run: pnpm test
+
+      - name: Build
+        run: pnpm build
+
+  preview-content:
+    name: Validate content (preview — drafts allowed)
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Validate content (preview mode)
+        run: pnpm validate-content
+        env:
+          KARAPATAN_PREVIEW: "true"

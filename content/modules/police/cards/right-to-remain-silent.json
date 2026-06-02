@@ -1,0 +1,118 @@
+{
+  "id": "police-right-to-remain-silent",
+  "module": "police",
+  "situationTags": [
+    {
+      "fil": "Tinatanong ako ng pulis sa presinto",
+      "en": "Police is questioning me at the station"
+    },
+    { "fil": "Inaresto ako at tinatanong", "en": "I was arrested and being questioned" },
+    {
+      "fil": "Hinarang ako ng pulis at nagtatanong",
+      "en": "Police stopped me and is asking questions"
+    }
+  ],
+  "keywords": [
+    "tahimik",
+    "silence",
+    "remain silent",
+    "miranda",
+    "custodial",
+    "investigation",
+    "tanong",
+    "interrogation",
+    "abogado",
+    "counsel",
+    "rights",
+    "karapatan",
+    "RA 7438",
+    "pagtatanong"
+  ],
+  "right": {
+    "fil": "Kapag hinarang o inaaresto ka ng pulis, mayroon kang karapatang manahimik at magkaroon ng abogado bago sumagot sa anumang tanong.",
+    "en": "When stopped or arrested by police, you have the right to remain silent and to have a lawyer before answering any questions."
+  },
+  "whatThisMeans": {
+    "fil": "Sa ilalim ng RA 7438, bago ka tanungin ng pulis tungkol sa isang krimen, dapat ipaalam nila sa'yo ang iyong mga karapatan — kasama na ang karapatang manahimik at magkaroon ng abogado. Ang anumang sinabi mo nang walang abogado ay maaaring gamitin laban sa'yo sa korte.",
+    "en": "Under RA 7438, before police question you about a crime, they must inform you of your rights — including the right to remain silent and to have a lawyer. Anything you say without a lawyer present may be used against you in court."
+  },
+  "theyCannot": [
+    {
+      "fil": "Tanungin ka tungkol sa isang krimen nang hindi muna ipinapaalam ang iyong mga karapatan.",
+      "en": "Question you about a crime without first informing you of your rights."
+    },
+    {
+      "fil": "Pilitin ka na sumagot nang wala ang isang abogado.",
+      "en": "Compel you to answer without a lawyer present."
+    },
+    {
+      "fil": "Gamitin ang sinabi mo (habang nag-aatubili at walang abogado) bilang ebidensya laban sa'yo.",
+      "en": "Use statements you made under duress without counsel as evidence against you."
+    },
+    {
+      "fil": "Pahirapan o banta-hin ka para ikaw ay magsalita (RA 9745 — Anti-Torture Act).",
+      "en": "Torture or threaten you to make you speak (RA 9745 — Anti-Torture Act)."
+    }
+  ],
+  "youCan": [
+    {
+      "fil": "Sabihing: 'Gusto kong manahimik at humingi ng abogado.'",
+      "en": "Say: 'I want to remain silent and I want a lawyer.'"
+    },
+    {
+      "fil": "Tumangging sumagot sa lahat ng tanong hanggang dumating ang iyong abogado.",
+      "en": "Refuse to answer any questions until your lawyer arrives."
+    },
+    {
+      "fil": "Humingi ng abogado mula sa Public Attorney's Office (PAO) nang libre kung wala kang pera.",
+      "en": "Request a free lawyer from the Public Attorney's Office (PAO) if you cannot afford one."
+    },
+    {
+      "fil": "I-waive ang karapatang ito nang may abogado lamang at kusang-loob.",
+      "en": "Waive this right only with a lawyer present and voluntarily."
+    }
+  ],
+  "eli5": {
+    "fil": "Kapag tinatanong ka ng pulis, hindi ka obligado na sumagot. Maaari kang magsabi: 'Manahimik muna ako at gusto ko ng abogado.' Hindi ito kasamaan — ito ay ang iyong karapatan.",
+    "en": "When police question you, you don't have to answer. You can say: 'I want to stay silent and I want a lawyer.' This isn't wrong — it's your right."
+  },
+  "scopeNotes": {
+    "fil": "Naaangkop ito sa custodial investigation — kapag ikaw ay inaresto o 'detained' ng pulis at tinatanong tungkol sa isang krimen. Iba ang tuntunin para sa simpleng tanong sa kalye (Terry stop). Ang PAO ay maaaring makipag-ugnayan sa pamamagitan ng presinto.",
+    "en": "This applies to custodial investigation — when you are arrested or detained by police and questioned about a crime. Different rules apply to brief street inquiries (Terry stops). PAO can be contacted through the police station."
+  },
+  "citations": [
+    {
+      "label": {
+        "fil": "RA 7438 — Karapatan ng mga Inaresto o Nakadeteng Tao",
+        "en": "RA 7438 — Rights of Persons Arrested, Detained or Under Custodial Investigation"
+      },
+      "lawId": "ra-7438",
+      "section": "Section 2",
+      "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/27/republic-act-no-7438/",
+      "sourceName": "official_gazette",
+      "quotedText": "Any person arrested, detained or under custodial investigation shall at all times be assisted by counsel."
+    },
+    {
+      "label": {
+        "fil": "Saligang Batas 1987, Artikulo III, Seksiyon 12",
+        "en": "1987 Constitution, Article III, Section 12"
+      },
+      "lawId": "const-1987-art3",
+      "section": "Article III, Section 12",
+      "sourceUrl": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+      "sourceName": "official_gazette",
+      "quotedText": "Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice."
+    }
+  ],
+  "relatedCardIds": ["police-warrantless-phone-search", "police-warrantless-arrest"],
+  "verification": "legal_review",
+  "lastVerified": "2026-05-30",
+  "sourcedBy": "content-team",
+  "version": 1,
+  "changelog": [
+    {
+      "date": "2026-05-30",
+      "note": "Initial sourcing + bilingual draft (Layer 1 + Layer 2). Awaiting Layer-3 legal review before publish."
+    }
+  ]
+}

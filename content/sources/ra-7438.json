@@ -1,0 +1,14 @@
+{
+  "lawId": "ra-7438",
+  "title": "RA 7438 — Rights of Persons Arrested, Detained or Under Custodial Investigation",
+  "section": "Sections 1–5",
+  "sourceUrl": "https://www.officialgazette.gov.ph/1992/04/27/republic-act-no-7438/",
+  "sourceName": "official_gazette",
+  "modules": ["police"],
+  "notes": "PH Miranda rights equivalent. Right to counsel, to remain silent, to be informed of rights. Custodial investigation definition.",
+  "fetchedAt": "2026-05-30T01:26:37.172Z",
+  "fetchStatus": "error",
+  "httpStatus": 403,
+  "contentLength": 4558,
+  "errorMessage": "HTTP 403 Forbidden"
+}
